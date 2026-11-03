@@ -1,4 +1,5 @@
 timezone: Asia/Riyadh
+season: 2026
 leagues:
   - name: Saudi Pro League
     code: 307
