@@ -1,0 +1,29 @@
+timezone: Asia/Riyadh
+leagues:
+  - name: Saudi Pro League
+    code: 307
+    group: saudi
+  - name: Premier League
+    code: 39
+    group: europe
+  - name: La Liga
+    code: 140
+    group: europe
+  - name: Serie A
+    code: 135
+    group: europe
+  - name: Bundesliga
+    code: 78
+    group: europe
+  - name: Ligue 1
+    code: 61
+    group: europe
+  - name: UEFA Champions League
+    code: 2
+    group: uefa
+  - name: UEFA Europa League
+    code: 3
+    group: uefa
+  - name: UEFA Conference League
+    code: 848
+    group: uefa
