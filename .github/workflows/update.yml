@@ -1,0 +1,38 @@
+name: Update Football Calendar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate football calendars
+        env:
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+        run: python fixtures.py
+
+      - name: Publish updated calendars
+        run: |
+          git config user.name "Football Calendar Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add calendars/
+          git diff --cached --quiet || git commit -m "Update football calendars"
+          git push
