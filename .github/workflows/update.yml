@@ -30,7 +30,7 @@ jobs:
 
       - name: Generate football calendars
         env:
-          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
         run: python fixtures.py
 
       - name: Publish updated calendars
