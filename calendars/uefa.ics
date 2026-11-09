@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Club Brugge vs Aston Villa | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20260908T194500
 DTEND;TZID=Asia/Riyadh:20260908T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260908-avl-bru@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Club Brugge\nAway: Aston Villa\nSaudi 
  time: 2026-09-08 19:45\nStatus: final\nScore:  | 2 - 3\nVenue: Jan Breydel
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Athens vs LASK Linz | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20260908T194500
 DTEND;TZID=Asia/Riyadh:20260908T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260908-las-aek@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AEK Athens\nAway: LASK Linz\nSaudi tim
  e: 2026-09-08 19:45\nStatus: final\nScore:  | 1 - 0\nVenue: OPAP Arena\nBr
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Lille vs Real Betis | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20260908T220000
 DTEND;TZID=Asia/Riyadh:20260909T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260908-bet-lill@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lille\nAway: Real Betis\nSaudi time: 2
  026-09-08 22:00\nStatus: final\nScore:  | 2 - 3\nVenue: Decathlon Arena - 
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid vs Internazionale | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20260908T220000
 DTEND;TZID=Asia/Riyadh:20260909T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260908-int-rma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Madrid\nAway: Internazionale\nSau
  di time: 2026-09-08 22:00\nStatus: final\nScore:  | 2 - 1\nVenue: Santiago
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:FC Porto vs Manchester City | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20260908T220000
 DTEND;TZID=Asia/Riyadh:20260909T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260908-mnc-fcp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: FC Porto\nAway: Manchester City\nSaudi
   time: 2026-09-08 22:00\nStatus: final\nScore:  | 0 - 2\nVenue: Estádio d
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund vs Villarreal | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20260908T220000
 DTEND;TZID=Asia/Riyadh:20260909T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260908-vil-dor@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Borussia Dortmund\nAway: Villarreal\nS
  audi time: 2026-09-08 22:00\nStatus: final\nScore:  | 3 - 2\nVenue: Signal
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona vs Feyenoord Rotterdam | 5 - 1
 DTSTART;TZID=Asia/Riyadh:20260909T194500
 DTEND;TZID=Asia/Riyadh:20260909T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260909-fey-bar@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Barcelona\nAway: Feyenoord Rotterdam\n
  Saudi time: 2026-09-09 19:45\nStatus: final\nScore:  | 5 - 1\nVenue: Spoti
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart vs Viking FK | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20260909T194500
 DTEND;TZID=Asia/Riyadh:20260909T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260909-vfk-vfb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: VfB Stuttgart\nAway: Viking FK\nSaudi 
  time: 2026-09-09 19:45\nStatus: final\nScore:  | 3 - 1\nVenue: MHPArena\nB
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli vs Arsenal | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20260909T220000
 DTEND;TZID=Asia/Riyadh:20260910T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260909-ars-nap@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Napoli\nAway: Arsenal\nSaudi time: 202
  6-09-09 22:00\nStatus: final\nScore:  | 0 - 1\nVenue: Stadio Diego Armando
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool vs Atlético Madrid | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20260909T220000
 DTEND;TZID=Asia/Riyadh:20260910T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260909-atm-liv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Liverpool\nAway: Atlético Madrid\nSau
  di time: 2026-09-09 22:00\nStatus: final\nScore:  | 2 - 1\nVenue: Anfield\
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting CP vs Galatasaray | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20260909T220000
 DTEND;TZID=Asia/Riyadh:20260910T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260909-gal-scp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sporting CP\nAway: Galatasaray\nSaudi 
  time: 2026-09-09 22:00\nStatus: final\nScore:  | 3 - 1\nVenue: Estádio Jo
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain vs Slovan Bratislava | 6 - 1
 DTSTART;TZID=Asia/Riyadh:20260909T220000
 DTEND;TZID=Asia/Riyadh:20260910T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260909-slb-psg@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Paris Saint-Germain\nAway: Slovan Brat
  islava\nSaudi time: 2026-09-09 22:00\nStatus: final\nScore:  | 6 - 1\nVenu
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahce vs AS Roma | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20260910T194500
 DTEND;TZID=Asia/Riyadh:20260910T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260910-roma-fen@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Fenerbahce\nAway: AS Roma\nSaudi time:
   2026-09-10 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Şükrü Saraco
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven vs Shakhtar Donetsk | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20260910T194500
 DTEND;TZID=Asia/Riyadh:20260910T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260910-shk-psv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: PSV Eindhoven\nAway: Shakhtar Donetsk\
  nSaudi time: 2026-09-10 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Phil
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Bayern Munich vs Bodo/Glimt | 5 - 0
 DTSTART;TZID=Asia/Riyadh:20260910T220000
 DTEND;TZID=Asia/Riyadh:20260911T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260910-bodo-mun@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bayern Munich\nAway: Bodo/Glimt\nSaudi
   time: 2026-09-10 22:00\nStatus: final\nScore:  | 5 - 0\nVenue: Allianz Ar
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Como vs RB Leipzig | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20260910T220000
 DTEND;TZID=Asia/Riyadh:20260911T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260910-rbl-como@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Como\nAway: RB Leipzig\nSaudi time: 20
  26-09-10 22:00\nStatus: final\nScore:  | 4 - 1\nVenue: Giuseppe Sinigaglia
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Slavia Prague vs Lens | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20260910T220000
 DTEND;TZID=Asia/Riyadh:20260911T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260910-rcl-slp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slavia Prague\nAway: Lens\nSaudi time:
   2026-09-10 22:00\nStatus: final\nScore:  | 2 - 3\nVenue: Fortuna Arena\nB
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United vs Sabah FK | 4 - 0
 DTSTART;TZID=Asia/Riyadh:20260910T220000
 DTEND;TZID=Asia/Riyadh:20260911T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20260910-sab-man@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester United\nAway: Sabah FK\nSau
  di time: 2026-09-10 22:00\nStatus: final\nScore:  | 4 - 0\nVenue: Old Traf
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Lens vs Sporting CP | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20261013T194500
 DTEND;TZID=Asia/Riyadh:20261013T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-scp-rcl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lens\nAway: Sporting CP\nSaudi time: 2
  026-10-13 19:45\nStatus: final\nScore:  | 0 - 2\nVenue: Stade Bollaert-Del
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Sabah FK vs Slavia Prague | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261013T194500
 DTEND;TZID=Asia/Riyadh:20261013T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-slp-sab@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sabah FK\nAway: Slavia Prague\nSaudi t
  ime: 2026-10-13 19:45\nStatus: final\nScore:  | 2 - 0\nVenue: Baku Olympic
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray vs Barcelona | 1 - 4
 DTSTART;TZID=Asia/Riyadh:20261013T220000
 DTEND;TZID=Asia/Riyadh:20261014T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-bar-gal@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Galatasaray\nAway: Barcelona\nSaudi ti
  me: 2026-10-13 22:00\nStatus: final\nScore:  | 1 - 4\nVenue: RAMS Park\nBr
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Internazionale vs Club Brugge | 3 - 4
 DTSTART;TZID=Asia/Riyadh:20261013T220000
 DTEND;TZID=Asia/Riyadh:20261014T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-bru-int@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Internazionale\nAway: Club Brugge\nSau
  di time: 2026-10-13 22:00\nStatus: final\nScore:  | 3 - 4\nVenue: San Siro
@@ -383,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal vs Lille | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261013T220000
 DTEND;TZID=Asia/Riyadh:20261014T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-lill-ars@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Arsenal\nAway: Lille\nSaudi time: 2026
  -10-13 22:00\nStatus: final\nScore:  | 3 - 0\nVenue: Emirates Stadium\nBro
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético Madrid vs Manchester United | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261013T220000
 DTEND;TZID=Asia/Riyadh:20261014T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-man-atm@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Atlético Madrid\nAway: Manchester Uni
  ted\nSaudi time: 2026-10-13 22:00\nStatus: final\nScore:  | 2 - 0\nVenue: 
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Viking FK vs Bayern Munich | 3 - 3
 DTSTART;TZID=Asia/Riyadh:20261013T220000
 DTEND;TZID=Asia/Riyadh:20261014T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-mun-vfk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Viking FK\nAway: Bayern Munich\nSaudi 
  time: 2026-10-13 22:00\nStatus: final\nScore:  | 3 - 3\nVenue: Viking Stad
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal vs Napoli | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261013T220000
 DTEND;TZID=Asia/Riyadh:20261014T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-nap-vil@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Villarreal\nAway: Napoli\nSaudi time: 
  2026-10-13 22:00\nStatus: final\nScore:  | 3 - 1\nVenue: Estadio de la Cer
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig vs PSV Eindhoven | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261013T220000
 DTEND;TZID=Asia/Riyadh:20261014T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261013-psv-rbl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: RB Leipzig\nAway: PSV Eindhoven\nSaudi
   time: 2026-10-13 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: Red Bull A
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:Feyenoord Rotterdam vs Como | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261014T194500
 DTEND;TZID=Asia/Riyadh:20261014T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-como-fey@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Feyenoord Rotterdam\nAway: Como\nSaudi
   time: 2026-10-14 19:45\nStatus: final\nScore:  | 3 - 2\nVenue: De Kuip\nB
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:LASK Linz vs Liverpool | 3 - 6
 DTSTART;TZID=Asia/Riyadh:20261014T194500
 DTEND;TZID=Asia/Riyadh:20261014T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-liv-las@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: LASK Linz\nAway: Liverpool\nSaudi time
  : 2026-10-14 19:45\nStatus: final\nScore:  | 3 - 6\nVenue: Raiffeisen Aren
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk vs AEK Athens | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261014T220000
 DTEND;TZID=Asia/Riyadh:20261015T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-aek-shk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Shakhtar Donetsk\nAway: AEK Athens\nSa
  udi time: 2026-10-14 22:00\nStatus: final\nScore:  | 3 - 1\nVenue: Stamfor
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Bodo/Glimt vs Borussia Dortmund | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261014T220000
 DTEND;TZID=Asia/Riyadh:20261015T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-dor-bodo@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bodo/Glimt\nAway: Borussia Dortmund\nS
  audi time: 2026-10-14 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: Aspmyr
@@ -536,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:Real Betis vs FC Porto | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261014T220000
 DTEND;TZID=Asia/Riyadh:20261015T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-fcp-bet@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Betis\nAway: FC Porto\nSaudi time
  : 2026-10-14 22:00\nStatus: final\nScore:  | 3 - 2\nVenue: Estadio La Cart
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa vs Fenerbahce | 6 - 0
 DTSTART;TZID=Asia/Riyadh:20261014T220000
 DTEND;TZID=Asia/Riyadh:20261015T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-fen-avl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Aston Villa\nAway: Fenerbahce\nSaudi t
  ime: 2026-10-14 22:00\nStatus: final\nScore:  | 6 - 0\nVenue: Villa Park\n
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City vs Paris Saint-Germain | 2 - 4
 DTSTART;TZID=Asia/Riyadh:20261014T220000
 DTEND;TZID=Asia/Riyadh:20261015T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-psg-mnc@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester City\nAway: Paris Saint-Ger
  main\nSaudi time: 2026-10-14 22:00\nStatus: final\nScore:  | 2 - 4\nVenue:
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma vs Real Madrid | 3 - 4
 DTSTART;TZID=Asia/Riyadh:20261014T220000
 DTEND;TZID=Asia/Riyadh:20261015T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-rma-roma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AS Roma\nAway: Real Madrid\nSaudi time
  : 2026-10-14 22:00\nStatus: final\nScore:  | 3 - 4\nVenue: Olimpico\nBroad
@@ -604,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava vs VfB Stuttgart | 0 - 3
 DTSTART;TZID=Asia/Riyadh:20261014T220000
 DTEND;TZID=Asia/Riyadh:20261015T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261014-vfb-slb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slovan Bratislava\nAway: VfB Stuttgart
  \nSaudi time: 2026-10-14 22:00\nStatus: final\nScore:  | 0 - 3\nVenue: Ná
@@ -621,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Sabah FK vs Borussia Dortmund | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261020T194500
 DTEND;TZID=Asia/Riyadh:20261020T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-dor-sab@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sabah FK\nAway: Borussia Dortmund\nSau
  di time: 2026-10-20 19:45\nStatus: final\nScore:  | 1 - 2\nVenue: Baku Oly
@@ -638,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahce vs Slavia Prague | 2 - 2
 DTSTART;TZID=Asia/Riyadh:20261020T194500
 DTEND;TZID=Asia/Riyadh:20261020T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-slp-fen@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Fenerbahce\nAway: Slavia Prague\nSaudi
   time: 2026-10-20 19:45\nStatus: final\nScore:  | 2 - 2\nVenue: Şükrü S
@@ -655,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City vs AEK Athens | 5 - 1
 DTSTART;TZID=Asia/Riyadh:20261020T220000
 DTEND;TZID=Asia/Riyadh:20261021T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-aek-mnc@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester City\nAway: AEK Athens\nSau
  di time: 2026-10-20 22:00\nStatus: final\nScore:  | 5 - 1\nVenue: Etihad S
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart vs Atlético Madrid | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261020T220000
 DTEND;TZID=Asia/Riyadh:20261021T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-atm-vfb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: VfB Stuttgart\nAway: Atlético Madrid\
  nSaudi time: 2026-10-20 22:00\nStatus: final\nScore:  | 1 - 1\nVenue: MHPA
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain vs Barcelona | 4 - 2
 DTSTART;TZID=Asia/Riyadh:20261020T220000
 DTEND;TZID=Asia/Riyadh:20261021T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-bar-psg@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Paris Saint-Germain\nAway: Barcelona\n
  Saudi time: 2026-10-20 22:00\nStatus: final\nScore:  | 4 - 2\nVenue: Parc 
@@ -706,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli vs Bodo/Glimt | 4 - 3
 DTSTART;TZID=Asia/Riyadh:20261020T220000
 DTEND;TZID=Asia/Riyadh:20261021T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-bodo-nap@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Napoli\nAway: Bodo/Glimt\nSaudi time: 
  2026-10-20 22:00\nStatus: final\nScore:  | 4 - 3\nVenue: Stadio Diego Arma
@@ -723,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:FC Porto vs PSV Eindhoven | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261020T220000
 DTEND;TZID=Asia/Riyadh:20261021T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-psv-fcp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: FC Porto\nAway: PSV Eindhoven\nSaudi t
  ime: 2026-10-20 22:00\nStatus: final\nScore:  | 0 - 1\nVenue: Estádio do 
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma vs Slovan Bratislava | 4 - 0
 DTSTART;TZID=Asia/Riyadh:20261020T220000
 DTEND;TZID=Asia/Riyadh:20261021T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-slb-roma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AS Roma\nAway: Slovan Bratislava\nSaud
  i time: 2026-10-20 22:00\nStatus: final\nScore:  | 4 - 0\nVenue: Olimpico\
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool vs Villarreal | 4 - 3
 DTSTART;TZID=Asia/Riyadh:20261020T220000
 DTEND;TZID=Asia/Riyadh:20261021T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261020-vil-liv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Liverpool\nAway: Villarreal\nSaudi tim
  e: 2026-10-20 22:00\nStatus: final\nScore:  | 4 - 3\nVenue: Anfield\nBroad
@@ -774,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:Lille vs Galatasaray | 2 - 4
 DTSTART;TZID=Asia/Riyadh:20261021T194500
 DTEND;TZID=Asia/Riyadh:20261021T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-gal-lill@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lille\nAway: Galatasaray\nSaudi time: 
  2026-10-21 19:45\nStatus: final\nScore:  | 2 - 4\nVenue: Decathlon Arena -
@@ -791,7 +791,7 @@ BEGIN:VEVENT
 SUMMARY:Como vs Manchester United | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20261021T194500
 DTEND;TZID=Asia/Riyadh:20261021T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-man-como@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Como\nAway: Manchester United\nSaudi t
  ime: 2026-10-21 19:45\nStatus: final\nScore:  | 4 - 1\nVenue: Giuseppe Sin
@@ -808,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:Bayern Munich vs Arsenal | 2 - 2
 DTSTART;TZID=Asia/Riyadh:20261021T220000
 DTEND;TZID=Asia/Riyadh:20261022T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-ars-mun@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bayern Munich\nAway: Arsenal\nSaudi ti
  me: 2026-10-21 22:00\nStatus: final\nScore:  | 2 - 2\nVenue: Allianz Arena
@@ -825,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Real Betis vs Feyenoord Rotterdam | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261021T220000
 DTEND;TZID=Asia/Riyadh:20261022T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-fey-bet@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Betis\nAway: Feyenoord Rotterdam\
  nSaudi time: 2026-10-21 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: Esta
@@ -842,7 +842,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting CP vs LASK Linz | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20261021T220000
 DTEND;TZID=Asia/Riyadh:20261022T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-las-scp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sporting CP\nAway: LASK Linz\nSaudi ti
  me: 2026-10-21 22:00\nStatus: final\nScore:  | 2 - 3\nVenue: Estádio Jos
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid vs RB Leipzig | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20261021T220000
 DTEND;TZID=Asia/Riyadh:20261022T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-rbl-rma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Madrid\nAway: RB Leipzig\nSaudi t
  ime: 2026-10-21 22:00\nStatus: final\nScore:  | 4 - 1\nVenue: Santiago Ber
@@ -876,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:Club Brugge vs Lens | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261021T220000
 DTEND;TZID=Asia/Riyadh:20261022T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-rcl-bru@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Club Brugge\nAway: Lens\nSaudi time: 2
  026-10-21 22:00\nStatus: final\nScore:  | 3 - 0\nVenue: Jan Breydel Stadiu
@@ -893,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:Internazionale vs Shakhtar Donetsk | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261021T220000
 DTEND;TZID=Asia/Riyadh:20261022T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-shk-int@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Internazionale\nAway: Shakhtar Donetsk
  \nSaudi time: 2026-10-21 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: San
@@ -910,7 +910,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa vs Viking FK | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261021T220000
 DTEND;TZID=Asia/Riyadh:20261022T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261021-vfk-avl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Aston Villa\nAway: Viking FK\nSaudi ti
  me: 2026-10-21 22:00\nStatus: final\nScore:  | 3 - 1\nVenue: Villa Park\nB
@@ -927,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk vs Sporting CP | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261103T204500
 DTEND;TZID=Asia/Riyadh:20261103T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-scp-shk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Shakhtar Donetsk\nAway: Sporting CP\nS
  audi time: 2026-11-03 20:45\nStatus: final\nScore:  | 0 - 1\nVenue: Stamfo
@@ -944,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray vs VfB Stuttgart | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261103T204500
 DTEND;TZID=Asia/Riyadh:20261103T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-vfb-gal@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Galatasaray\nAway: VfB Stuttgart\nSaud
  i time: 2026-11-03 20:45\nStatus: final\nScore:  | 2 - 0\nVenue: RAMS Park
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona vs Aston Villa | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261103T230000
 DTEND;TZID=Asia/Riyadh:20261104T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-avl-bar@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Barcelona\nAway: Aston Villa\nSaudi ti
  me: 2026-11-03 23:00\nStatus: final\nScore:  | 3 - 0\nVenue: Spotify Camp 
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:Feyenoord Rotterdam vs Internazionale | 0 - 3
 DTSTART;TZID=Asia/Riyadh:20261103T230000
 DTEND;TZID=Asia/Riyadh:20261104T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-int-fey@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Feyenoord Rotterdam\nAway: Internazion
  ale\nSaudi time: 2026-11-03 23:00\nStatus: final\nScore:  | 0 - 3\nVenue: 
@@ -995,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:Bodo/Glimt vs Lille | 0 - 0
 DTSTART;TZID=Asia/Riyadh:20261103T230000
 DTEND;TZID=Asia/Riyadh:20261104T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-lill-bodo@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bodo/Glimt\nAway: Lille\nSaudi time: 2
  026-11-03 23:00\nStatus: final\nScore:  | 0 - 0\nVenue: Aspmyra Stadion\nB
@@ -1012,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético Madrid vs Bayern Munich | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20261103T230000
 DTEND;TZID=Asia/Riyadh:20261104T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-mun-atm@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Atlético Madrid\nAway: Bayern Munich\
  nSaudi time: 2026-11-03 23:00\nStatus: final\nScore:  | 0 - 2\nVenue: Riya
@@ -1029,7 +1029,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal vs Paris Saint-Germain | 0 - 6
 DTSTART;TZID=Asia/Riyadh:20261103T230000
 DTEND;TZID=Asia/Riyadh:20261104T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-psg-vil@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Villarreal\nAway: Paris Saint-Germain\
  nSaudi time: 2026-11-03 23:00\nStatus: final\nScore:  | 0 - 6\nVenue: Esta
@@ -1046,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United vs AS Roma | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261103T230000
 DTEND;TZID=Asia/Riyadh:20261104T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-roma-man@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester United\nAway: AS Roma\nSaud
  i time: 2026-11-03 23:00\nStatus: final\nScore:  | 3 - 2\nVenue: Old Traff
@@ -1063,7 +1063,7 @@ BEGIN:VEVENT
 SUMMARY:LASK Linz vs Slovan Bratislava | 4 - 0
 DTSTART;TZID=Asia/Riyadh:20261103T230000
 DTEND;TZID=Asia/Riyadh:20261104T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261103-slb-las@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: LASK Linz\nAway: Slovan Bratislava\nSa
  udi time: 2026-11-03 23:00\nStatus: final\nScore:  | 4 - 0\nVenue: Raiffei
@@ -1080,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahce vs Liverpool | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261104T204500
 DTEND;TZID=Asia/Riyadh:20261104T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-liv-fen@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Fenerbahce\nAway: Liverpool\nSaudi tim
  e: 2026-11-04 20:45\nStatus: final\nScore:  | 3 - 2\nVenue: Şükrü Sarac
@@ -1097,7 +1097,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Athens vs Real Madrid | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20261104T204500
 DTEND;TZID=Asia/Riyadh:20261104T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-rma-aek@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AEK Athens\nAway: Real Madrid\nSaudi t
  ime: 2026-11-04 20:45\nStatus: final\nScore:  | 2 - 3\nVenue: OPAP Arena\n
@@ -1114,7 +1114,7 @@ BEGIN:VEVENT
 SUMMARY:Slavia Prague vs Arsenal | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261104T230000
 DTEND;TZID=Asia/Riyadh:20261105T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-ars-slp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slavia Prague\nAway: Arsenal\nSaudi ti
  me: 2026-11-04 23:00\nStatus: final\nScore:  | 1 - 2\nVenue: Fortuna Arena
@@ -1131,7 +1131,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund vs Real Betis | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261104T230000
 DTEND;TZID=Asia/Riyadh:20261105T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-bet-dor@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Borussia Dortmund\nAway: Real Betis\nS
  audi time: 2026-11-04 23:00\nStatus: final\nScore:  | 2 - 1\nVenue: Signal
@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven vs Club Brugge | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261104T230000
 DTEND;TZID=Asia/Riyadh:20261105T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-bru-psv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: PSV Eindhoven\nAway: Club Brugge\nSaud
  i time: 2026-11-04 23:00\nStatus: final\nScore:  | 1 - 2\nVenue: Philips S
@@ -1165,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:Lens vs Como | 1 - 9
 DTSTART;TZID=Asia/Riyadh:20261104T230000
 DTEND;TZID=Asia/Riyadh:20261105T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-como-rcl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lens\nAway: Como\nSaudi time: 2026-11-
  04 23:00\nStatus: final\nScore:  | 1 - 9\nVenue: Stade Bollaert-Delelis\nB
@@ -1182,7 +1182,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig vs Manchester City | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20261104T230000
 DTEND;TZID=Asia/Riyadh:20261105T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-mnc-rbl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: RB Leipzig\nAway: Manchester City\nSau
  di time: 2026-11-04 23:00\nStatus: final\nScore:  | 2 - 3\nVenue: Red Bull
@@ -1199,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:FC Porto vs Napoli | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20261104T230000
 DTEND;TZID=Asia/Riyadh:20261105T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-nap-fcp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: FC Porto\nAway: Napoli\nSaudi time: 20
  26-11-04 23:00\nStatus: final\nScore:  | 4 - 1\nVenue: Estádio do Dragão
@@ -1216,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:Viking FK vs Sabah FK | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20261104T230000
 DTEND;TZID=Asia/Riyadh:20261105T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261104-sab-vfk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Viking FK\nAway: Sabah FK\nSaudi time:
   2026-11-04 23:00\nStatus: final\nScore:  | 4 - 1\nVenue: Viking Stadion\n
@@ -1233,7 +1233,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray vs Aston Villa
 DTSTART;TZID=Asia/Riyadh:20261124T204500
 DTEND;TZID=Asia/Riyadh:20261124T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-avl-gal@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Galatasaray\nAway: Aston Villa\nSaudi 
  time: 2026-11-24 20:45\nStatus: scheduled\nScore: Not available\nVenue: RA
@@ -1250,7 +1250,7 @@ BEGIN:VEVENT
 SUMMARY:Bodo/Glimt vs LASK Linz
 DTSTART;TZID=Asia/Riyadh:20261124T204500
 DTEND;TZID=Asia/Riyadh:20261124T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-las-bodo@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bodo/Glimt\nAway: LASK Linz\nSaudi tim
  e: 2026-11-24 20:45\nStatus: scheduled\nScore: Not available\nVenue: Aspmy
@@ -1267,7 +1267,7 @@ BEGIN:VEVENT
 SUMMARY:Como vs AEK Athens
 DTSTART;TZID=Asia/Riyadh:20261124T230000
 DTEND;TZID=Asia/Riyadh:20261125T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-aek-como@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Como\nAway: AEK Athens\nSaudi time: 20
  26-11-24 23:00\nStatus: scheduled\nScore: Not available\nVenue: Giuseppe S
@@ -1284,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava vs Real Betis
 DTSTART;TZID=Asia/Riyadh:20261124T230000
 DTEND;TZID=Asia/Riyadh:20261125T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-bet-slb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slovan Bratislava\nAway: Real Betis\nS
  audi time: 2026-11-24 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -1301,7 +1301,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal vs Borussia Dortmund
 DTSTART;TZID=Asia/Riyadh:20261124T230000
 DTEND;TZID=Asia/Riyadh:20261125T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-dor-ars@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Arsenal\nAway: Borussia Dortmund\nSaud
  i time: 2026-11-24 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -1318,7 +1318,7 @@ BEGIN:VEVENT
 SUMMARY:Feyenoord Rotterdam vs FC Porto
 DTSTART;TZID=Asia/Riyadh:20261124T230000
 DTEND;TZID=Asia/Riyadh:20261125T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-fcp-fey@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Feyenoord Rotterdam\nAway: FC Porto\nS
  audi time: 2026-11-24 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -1335,7 +1335,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City vs Napoli
 DTSTART;TZID=Asia/Riyadh:20261124T230000
 DTEND;TZID=Asia/Riyadh:20261125T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-nap-mnc@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester City\nAway: Napoli\nSaudi t
  ime: 2026-11-24 23:00\nStatus: scheduled\nScore: Not available\nVenue: Eti
@@ -1352,7 +1352,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid vs PSV Eindhoven
 DTSTART;TZID=Asia/Riyadh:20261124T230000
 DTEND;TZID=Asia/Riyadh:20261125T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-psv-rma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Madrid\nAway: PSV Eindhoven\nSaud
  i time: 2026-11-24 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -1369,7 +1369,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig vs Lens
 DTSTART;TZID=Asia/Riyadh:20261124T230000
 DTEND;TZID=Asia/Riyadh:20261125T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261124-rcl-rbl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: RB Leipzig\nAway: Lens\nSaudi time: 20
  26-11-24 23:00\nStatus: scheduled\nScore: Not available\nVenue: Red Bull A
@@ -1386,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:Sabah FK vs Barcelona
 DTSTART;TZID=Asia/Riyadh:20261125T204500
 DTEND;TZID=Asia/Riyadh:20261125T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-bar-sab@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sabah FK\nAway: Barcelona\nSaudi time:
   2026-11-25 20:45\nStatus: scheduled\nScore: Not available\nVenue: Baku Ol
@@ -1403,7 +1403,7 @@ BEGIN:VEVENT
 SUMMARY:Slavia Prague vs Villarreal
 DTSTART;TZID=Asia/Riyadh:20261125T204500
 DTEND;TZID=Asia/Riyadh:20261125T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-vil-slp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slavia Prague\nAway: Villarreal\nSaudi
   time: 2026-11-25 20:45\nStatus: scheduled\nScore: Not available\nVenue: F
@@ -1420,7 +1420,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk vs Fenerbahce
 DTSTART;TZID=Asia/Riyadh:20261125T230000
 DTEND;TZID=Asia/Riyadh:20261126T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-fen-shk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Shakhtar Donetsk\nAway: Fenerbahce\nSa
  udi time: 2026-11-25 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -1437,7 +1437,7 @@ BEGIN:VEVENT
 SUMMARY:Club Brugge vs Liverpool
 DTSTART;TZID=Asia/Riyadh:20261125T230000
 DTEND;TZID=Asia/Riyadh:20261126T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-liv-bru@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Club Brugge\nAway: Liverpool\nSaudi ti
  me: 2026-11-25 23:00\nStatus: scheduled\nScore: Not available\nVenue: Jan 
@@ -1454,7 +1454,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting CP vs Manchester United
 DTSTART;TZID=Asia/Riyadh:20261125T230000
 DTEND;TZID=Asia/Riyadh:20261126T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-man-scp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sporting CP\nAway: Manchester United\n
  Saudi time: 2026-11-25 23:00\nStatus: scheduled\nScore: Not available\nVen
@@ -1471,7 +1471,7 @@ BEGIN:VEVENT
 SUMMARY:Lille vs Bayern Munich
 DTSTART;TZID=Asia/Riyadh:20261125T230000
 DTEND;TZID=Asia/Riyadh:20261126T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-mun-lill@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lille\nAway: Bayern Munich\nSaudi time
  : 2026-11-25 23:00\nStatus: scheduled\nScore: Not available\nVenue: Decath
@@ -1488,7 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain vs AS Roma
 DTSTART;TZID=Asia/Riyadh:20261125T230000
 DTEND;TZID=Asia/Riyadh:20261126T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-roma-psg@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Paris Saint-Germain\nAway: AS Roma\nSa
  udi time: 2026-11-25 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -1505,7 +1505,7 @@ BEGIN:VEVENT
 SUMMARY:Internazionale vs VfB Stuttgart
 DTSTART;TZID=Asia/Riyadh:20261125T230000
 DTEND;TZID=Asia/Riyadh:20261126T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-vfb-int@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Internazionale\nAway: VfB Stuttgart\nS
  audi time: 2026-11-25 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -1522,7 +1522,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético Madrid vs Viking FK
 DTSTART;TZID=Asia/Riyadh:20261125T230000
 DTEND;TZID=Asia/Riyadh:20261126T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261125-vfk-atm@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Atlético Madrid\nAway: Viking FK\nSau
  di time: 2026-11-25 23:00\nStatus: scheduled\nScore: Not available\nVenue:
@@ -1539,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:Viking FK vs Feyenoord Rotterdam
 DTSTART;TZID=Asia/Riyadh:20261208T204500
 DTEND;TZID=Asia/Riyadh:20261208T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-fey-vfk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Viking FK\nAway: Feyenoord Rotterdam\n
  Saudi time: 2026-12-08 20:45\nStatus: scheduled\nScore: Not available\nVen
@@ -1556,7 +1556,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal vs Sabah FK
 DTSTART;TZID=Asia/Riyadh:20261208T204500
 DTEND;TZID=Asia/Riyadh:20261208T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-sab-vil@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Villarreal\nAway: Sabah FK\nSaudi time
  : 2026-12-08 20:45\nStatus: scheduled\nScore: Not available\nVenue: Estadi
@@ -1573,7 +1573,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli vs Club Brugge
 DTSTART;TZID=Asia/Riyadh:20261208T230000
 DTEND;TZID=Asia/Riyadh:20261209T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-bru-nap@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Napoli\nAway: Club Brugge\nSaudi time:
   2026-12-08 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stadio 
@@ -1590,7 +1590,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Athens vs Galatasaray
 DTSTART;TZID=Asia/Riyadh:20261208T230000
 DTEND;TZID=Asia/Riyadh:20261209T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-gal-aek@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AEK Athens\nAway: Galatasaray\nSaudi t
  ime: 2026-12-08 23:00\nStatus: scheduled\nScore: Not available\nVenue: OPA
@@ -1607,7 +1607,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona vs Manchester City
 DTSTART;TZID=Asia/Riyadh:20261208T230000
 DTEND;TZID=Asia/Riyadh:20261209T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-mnc-bar@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Barcelona\nAway: Manchester City\nSaud
  i time: 2026-12-08 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -1624,7 +1624,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa vs Paris Saint-Germain
 DTSTART;TZID=Asia/Riyadh:20261208T230000
 DTEND;TZID=Asia/Riyadh:20261209T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-psg-avl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Aston Villa\nAway: Paris Saint-Germain
  \nSaudi time: 2026-12-08 23:00\nStatus: scheduled\nScore: Not available\nV
@@ -1641,7 +1641,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United vs RB Leipzig
 DTSTART;TZID=Asia/Riyadh:20261208T230000
 DTEND;TZID=Asia/Riyadh:20261209T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-rbl-man@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester United\nAway: RB Leipzig\nS
  audi time: 2026-12-08 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -1658,7 +1658,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma vs Sporting CP
 DTSTART;TZID=Asia/Riyadh:20261208T230000
 DTEND;TZID=Asia/Riyadh:20261209T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-scp-roma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AS Roma\nAway: Sporting CP\nSaudi time
  : 2026-12-08 23:00\nStatus: scheduled\nScore: Not available\nVenue: Olimpi
@@ -1675,7 +1675,7 @@ BEGIN:VEVENT
 SUMMARY:Bayern Munich vs Slavia Prague
 DTSTART;TZID=Asia/Riyadh:20261208T230000
 DTEND;TZID=Asia/Riyadh:20261209T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261208-slp-mun@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bayern Munich\nAway: Slavia Prague\nSa
  udi time: 2026-12-08 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -1692,7 +1692,7 @@ BEGIN:VEVENT
 SUMMARY:Real Betis vs Como
 DTSTART;TZID=Asia/Riyadh:20261209T204500
 DTEND;TZID=Asia/Riyadh:20261209T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-como-bet@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Betis\nAway: Como\nSaudi time: 20
  26-12-09 20:45\nStatus: scheduled\nScore: Not available\nVenue: Estadio La
@@ -1709,7 +1709,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava vs Shakhtar Donetsk
 DTSTART;TZID=Asia/Riyadh:20261209T204500
 DTEND;TZID=Asia/Riyadh:20261209T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-shk-slb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slovan Bratislava\nAway: Shakhtar Done
  tsk\nSaudi time: 2026-12-09 20:45\nStatus: scheduled\nScore: Not available
@@ -1726,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven vs Atlético Madrid
 DTSTART;TZID=Asia/Riyadh:20261209T230000
 DTEND;TZID=Asia/Riyadh:20261210T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-atm-psv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: PSV Eindhoven\nAway: Atlético Madrid\
  nSaudi time: 2026-12-09 23:00\nStatus: scheduled\nScore: Not available\nVe
@@ -1743,7 +1743,7 @@ BEGIN:VEVENT
 SUMMARY:Lens vs Bodo/Glimt
 DTSTART;TZID=Asia/Riyadh:20261209T230000
 DTEND;TZID=Asia/Riyadh:20261210T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-bodo-rcl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lens\nAway: Bodo/Glimt\nSaudi time: 20
  26-12-09 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stade Boll
@@ -1760,7 +1760,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool vs FC Porto
 DTSTART;TZID=Asia/Riyadh:20261209T230000
 DTEND;TZID=Asia/Riyadh:20261210T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-fcp-liv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Liverpool\nAway: FC Porto\nSaudi time:
   2026-12-09 23:00\nStatus: scheduled\nScore: Not available\nVenue: Anfield
@@ -1777,7 +1777,7 @@ BEGIN:VEVENT
 SUMMARY:LASK Linz vs Fenerbahce
 DTSTART;TZID=Asia/Riyadh:20261209T230000
 DTEND;TZID=Asia/Riyadh:20261210T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-fen-las@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: LASK Linz\nAway: Fenerbahce\nSaudi tim
  e: 2026-12-09 23:00\nStatus: scheduled\nScore: Not available\nVenue: Raiff
@@ -1794,7 +1794,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund vs Internazionale
 DTSTART;TZID=Asia/Riyadh:20261209T230000
 DTEND;TZID=Asia/Riyadh:20261210T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-int-dor@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Borussia Dortmund\nAway: Internazional
  e\nSaudi time: 2026-12-09 23:00\nStatus: scheduled\nScore: Not available\n
@@ -1811,7 +1811,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart vs Lille
 DTSTART;TZID=Asia/Riyadh:20261209T230000
 DTEND;TZID=Asia/Riyadh:20261210T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-lill-vfb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: VfB Stuttgart\nAway: Lille\nSaudi time
  : 2026-12-09 23:00\nStatus: scheduled\nScore: Not available\nVenue: MHPAre
@@ -1828,7 +1828,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal vs Real Madrid
 DTSTART;TZID=Asia/Riyadh:20261209T230000
 DTEND;TZID=Asia/Riyadh:20261210T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20261209-rma-ars@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Arsenal\nAway: Real Madrid\nSaudi time
  : 2026-12-09 23:00\nStatus: scheduled\nScore: Not available\nVenue: Emirat
@@ -1845,7 +1845,7 @@ BEGIN:VEVENT
 SUMMARY:Bodo/Glimt vs Atlético Madrid
 DTSTART;TZID=Asia/Riyadh:20270119T204500
 DTEND;TZID=Asia/Riyadh:20270119T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-atm-bodo@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bodo/Glimt\nAway: Atlético Madrid\nSa
  udi time: 2027-01-19 20:45\nStatus: scheduled\nScore: Not available\nVenue
@@ -1862,7 +1862,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray vs Feyenoord Rotterdam
 DTSTART;TZID=Asia/Riyadh:20270119T204500
 DTEND;TZID=Asia/Riyadh:20270119T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-fey-gal@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Galatasaray\nAway: Feyenoord Rotterdam
  \nSaudi time: 2027-01-19 20:45\nStatus: scheduled\nScore: Not available\nV
@@ -1879,7 +1879,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart vs Club Brugge
 DTSTART;TZID=Asia/Riyadh:20270119T230000
 DTEND;TZID=Asia/Riyadh:20270120T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-bru-vfb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: VfB Stuttgart\nAway: Club Brugge\nSaud
  i time: 2027-01-19 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -1896,7 +1896,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa vs Borussia Dortmund
 DTSTART;TZID=Asia/Riyadh:20270119T230000
 DTEND;TZID=Asia/Riyadh:20270120T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-dor-avl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Aston Villa\nAway: Borussia Dortmund\n
  Saudi time: 2027-01-19 23:00\nStatus: scheduled\nScore: Not available\nVen
@@ -1913,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid vs LASK Linz
 DTSTART;TZID=Asia/Riyadh:20270119T230000
 DTEND;TZID=Asia/Riyadh:20270120T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-las-rma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Madrid\nAway: LASK Linz\nSaudi ti
  me: 2027-01-19 23:00\nStatus: scheduled\nScore: Not available\nVenue: Sant
@@ -1930,7 +1930,7 @@ BEGIN:VEVENT
 SUMMARY:Internazionale vs Liverpool
 DTSTART;TZID=Asia/Riyadh:20270119T230000
 DTEND;TZID=Asia/Riyadh:20270120T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-liv-int@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Internazionale\nAway: Liverpool\nSaudi
   time: 2027-01-19 23:00\nStatus: scheduled\nScore: Not available\nVenue: S
@@ -1947,7 +1947,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Athens vs AS Roma
 DTSTART;TZID=Asia/Riyadh:20270119T230000
 DTEND;TZID=Asia/Riyadh:20270120T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-roma-aek@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AEK Athens\nAway: AS Roma\nSaudi time:
   2027-01-19 23:00\nStatus: scheduled\nScore: Not available\nVenue: OPAP Ar
@@ -1964,7 +1964,7 @@ BEGIN:VEVENT
 SUMMARY:Lille vs Slovan Bratislava
 DTSTART;TZID=Asia/Riyadh:20270119T230000
 DTEND;TZID=Asia/Riyadh:20270120T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-slb-lill@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lille\nAway: Slovan Bratislava\nSaudi 
  time: 2027-01-19 23:00\nStatus: scheduled\nScore: Not available\nVenue: De
@@ -1981,7 +1981,7 @@ BEGIN:VEVENT
 SUMMARY:FC Porto vs Slavia Prague
 DTSTART;TZID=Asia/Riyadh:20270119T230000
 DTEND;TZID=Asia/Riyadh:20270120T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270119-slp-fcp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: FC Porto\nAway: Slavia Prague\nSaudi t
  ime: 2027-01-19 23:00\nStatus: scheduled\nScore: Not available\nVenue: Est
@@ -1998,7 +1998,7 @@ BEGIN:VEVENT
 SUMMARY:Sabah FK vs Napoli
 DTSTART;TZID=Asia/Riyadh:20270120T204500
 DTEND;TZID=Asia/Riyadh:20270120T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-nap-sab@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sabah FK\nAway: Napoli\nSaudi time: 20
  27-01-20 20:45\nStatus: scheduled\nScore: Not available\nVenue: Baku Olymp
@@ -2015,7 +2015,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahce vs Villarreal
 DTSTART;TZID=Asia/Riyadh:20270120T204500
 DTEND;TZID=Asia/Riyadh:20270120T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-vil-fen@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Fenerbahce\nAway: Villarreal\nSaudi ti
  me: 2027-01-20 20:45\nStatus: scheduled\nScore: Not available\nVenue: Şü
@@ -2032,7 +2032,7 @@ BEGIN:VEVENT
 SUMMARY:Real Betis vs Arsenal
 DTSTART;TZID=Asia/Riyadh:20270120T230000
 DTEND;TZID=Asia/Riyadh:20270121T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-ars-bet@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Real Betis\nAway: Arsenal\nSaudi time:
   2027-01-20 23:00\nStatus: scheduled\nScore: Not available\nVenue: Estadio
@@ -2049,7 +2049,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting CP vs Barcelona
 DTSTART;TZID=Asia/Riyadh:20270120T230000
 DTEND;TZID=Asia/Riyadh:20270121T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-bar-scp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Sporting CP\nAway: Barcelona\nSaudi ti
  me: 2027-01-20 23:00\nStatus: scheduled\nScore: Not available\nVenue: Est
@@ -2066,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:Lens vs Manchester City
 DTSTART;TZID=Asia/Riyadh:20270120T230000
 DTEND;TZID=Asia/Riyadh:20270121T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-mnc-rcl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Lens\nAway: Manchester City\nSaudi tim
  e: 2027-01-20 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stade
@@ -2083,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United vs Bayern Munich
 DTSTART;TZID=Asia/Riyadh:20270120T230000
 DTEND;TZID=Asia/Riyadh:20270121T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-mun-man@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester United\nAway: Bayern Munich
  \nSaudi time: 2027-01-20 23:00\nStatus: scheduled\nScore: Not available\nV
@@ -2100,7 +2100,7 @@ BEGIN:VEVENT
 SUMMARY:Como vs Paris Saint-Germain
 DTSTART;TZID=Asia/Riyadh:20270120T230000
 DTEND;TZID=Asia/Riyadh:20270121T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-psg-como@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Como\nAway: Paris Saint-Germain\nSaudi
   time: 2027-01-20 23:00\nStatus: scheduled\nScore: Not available\nVenue: G
@@ -2117,7 +2117,7 @@ BEGIN:VEVENT
 SUMMARY:Viking FK vs PSV Eindhoven
 DTSTART;TZID=Asia/Riyadh:20270120T230000
 DTEND;TZID=Asia/Riyadh:20270121T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-psv-vfk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Viking FK\nAway: PSV Eindhoven\nSaudi 
  time: 2027-01-20 23:00\nStatus: scheduled\nScore: Not available\nVenue: Vi
@@ -2134,7 +2134,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig vs Shakhtar Donetsk
 DTSTART;TZID=Asia/Riyadh:20270120T230000
 DTEND;TZID=Asia/Riyadh:20270121T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270120-shk-rbl@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: RB Leipzig\nAway: Shakhtar Donetsk\nSa
  udi time: 2027-01-20 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -2151,7 +2151,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund vs AEK Athens
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-aek-dor@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Borussia Dortmund\nAway: AEK Athens\nS
  audi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -2168,7 +2168,7 @@ BEGIN:VEVENT
 SUMMARY:Slavia Prague vs Aston Villa
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-avl-slp@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slavia Prague\nAway: Aston Villa\nSaud
  i time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -2185,7 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:Bayern Munich vs Real Betis
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-bet-mun@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Bayern Munich\nAway: Real Betis\nSaudi
   time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: A
@@ -2202,7 +2202,7 @@ BEGIN:VEVENT
 SUMMARY:Club Brugge vs Bodo/Glimt
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-bodo-bru@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Club Brugge\nAway: Bodo/Glimt\nSaudi t
  ime: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: Jan
@@ -2219,7 +2219,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona vs Como
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-como-bar@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Barcelona\nAway: Como\nSaudi time: 202
  7-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: Spotify Cam
@@ -2236,7 +2236,7 @@ BEGIN:VEVENT
 SUMMARY:LASK Linz vs FC Porto
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-fcp-las@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: LASK Linz\nAway: FC Porto\nSaudi time:
   2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: Raiffei
@@ -2253,7 +2253,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético Madrid vs Fenerbahce
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-fen-atm@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Atlético Madrid\nAway: Fenerbahce\nSa
  udi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -2270,7 +2270,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain vs Galatasaray
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-gal-psg@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Paris Saint-Germain\nAway: Galatasaray
  \nSaudi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nV
@@ -2287,7 +2287,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava vs Internazionale
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-int-slb@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Slovan Bratislava\nAway: Internazional
  e\nSaudi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\n
@@ -2304,7 +2304,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma vs Lille
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-lill-roma@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: AS Roma\nAway: Lille\nSaudi time: 2027
  -01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: Olimpico\nBr
@@ -2321,7 +2321,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal vs Manchester United
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-man-vil@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Villarreal\nAway: Manchester United\nS
  audi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -2338,7 +2338,7 @@ BEGIN:VEVENT
 SUMMARY:Feyenoord Rotterdam vs RB Leipzig
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-rbl-fey@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Feyenoord Rotterdam\nAway: RB Leipzig\
  nSaudi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVe
@@ -2355,7 +2355,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool vs Lens
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-rcl-liv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Liverpool\nAway: Lens\nSaudi time: 202
  7-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: Anfield\nBr
@@ -2372,7 +2372,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk vs Real Madrid
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-rma-shk@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Shakhtar Donetsk\nAway: Real Madrid\nS
  audi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -2389,7 +2389,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal vs Sabah FK
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-sab-ars@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Arsenal\nAway: Sabah FK\nSaudi time: 2
  027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: Emirates 
@@ -2406,7 +2406,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City vs Sporting CP
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-scp-mnc@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Manchester City\nAway: Sporting CP\nSa
  udi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -2423,7 +2423,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven vs VfB Stuttgart
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-vfb-psv@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: PSV Eindhoven\nAway: VfB Stuttgart\nSa
  udi time: 2027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -2440,7 +2440,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli vs Viking FK
 DTSTART;TZID=Asia/Riyadh:20270127T230000
 DTEND;TZID=Asia/Riyadh:20270128T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133542Z
 UID:ucl-20270127-vfk-nap@football-fixtures-saudi
 DESCRIPTION:Competition: ucl\nHome: Napoli\nAway: Viking FK\nSaudi time: 2
  027-01-27 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stadio Di
@@ -2457,7 +2457,7 @@ BEGIN:VEVENT
 SUMMARY:Omonia Nicosia vs Celta Vigo | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20260916T194500
 DTEND;TZID=Asia/Riyadh:20260916T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-cel-omon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Omonia Nicosia\nAway: Celta Vigo\nSaud
  i time: 2026-09-16 19:45\nStatus: final\nScore:  | 1 - 0\nVenue: GSP Stadi
@@ -2474,7 +2474,7 @@ BEGIN:VEVENT
 SUMMARY:Ararat-Armenia vs Sparta Prague | 1 - 4
 DTSTART;TZID=Asia/Riyadh:20260916T194500
 DTEND;TZID=Asia/Riyadh:20260916T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-spp-ara@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ararat-Armenia\nAway: Sparta Prague\nS
  audi time: 2026-09-16 19:45\nStatus: final\nScore:  | 1 - 4\nVenue: Vazgen
@@ -2491,7 +2491,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland vs AZ Alkmaar | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20260916T220000
 DTEND;TZID=Asia/Riyadh:20260917T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-az-sun@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sunderland\nAway: AZ Alkmaar\nSaudi ti
  me: 2026-09-16 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: Stadium of Li
@@ -2508,7 +2508,7 @@ BEGIN:VEVENT
 SUMMARY:Hapoel Be'er vs Dinamo Zagreb | 0 - 0
 DTSTART;TZID=Asia/Riyadh:20260916T220000
 DTEND;TZID=Asia/Riyadh:20260917T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-dzg-hbe@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Hapoel Be'er\nAway: Dinamo Zagreb\nSau
  di time: 2026-09-16 22:00\nStatus: final\nScore:  | 0 - 0\nVenue: Giulesti
@@ -2525,7 +2525,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiacos vs Jagiellonia Bialystok | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20260916T220000
 DTEND;TZID=Asia/Riyadh:20260917T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-jag-oly@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Olympiacos\nAway: Jagiellonia Bialysto
  k\nSaudi time: 2026-09-16 22:00\nStatus: final\nScore:  | 2 - 1\nVenue: Ge
@@ -2542,7 +2542,7 @@ BEGIN:VEVENT
 SUMMARY:Anderlecht vs Lyon | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20260916T220000
 DTEND;TZID=Asia/Riyadh:20260917T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-lyon-and@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Anderlecht\nAway: Lyon\nSaudi time: 20
  26-09-16 22:00\nStatus: final\nScore:  | 1 - 2\nVenue: Lotto Park\nBroadca
@@ -2559,7 +2559,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen vs NK Celje | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20260916T220000
 DTEND;TZID=Asia/Riyadh:20260917T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-nkc-b04@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Bayer Leverkusen\nAway: NK Celje\nSaud
  i time: 2026-09-16 22:00\nStatus: final\nScore:  | 2 - 0\nVenue: BayArena\
@@ -2576,7 +2576,7 @@ BEGIN:VEVENT
 SUMMARY:SK Sturm Graz vs Stade Rennais | 0 - 0
 DTSTART;TZID=Asia/Riyadh:20260916T220000
 DTEND;TZID=Asia/Riyadh:20260917T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-ren-stg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: SK Sturm Graz\nAway: Stade Rennais\nSa
  udi time: 2026-09-16 22:00\nStatus: final\nScore:  | 0 - 0\nVenue: Merkur 
@@ -2593,7 +2593,7 @@ BEGIN:VEVENT
 SUMMARY:AC Milan vs Benfica | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20260916T220000
 DTEND;TZID=Asia/Riyadh:20260917T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260916-slb-mil@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AC Milan\nAway: Benfica\nSaudi time: 2
  026-09-16 22:00\nStatus: final\nScore:  | 0 - 2\nVenue: San Siro\nBroadcas
@@ -2610,7 +2610,7 @@ BEGIN:VEVENT
 SUMMARY:Levski Sofia vs RB Salzburg | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20260917T194500
 DTEND;TZID=Asia/Riyadh:20260917T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-slz-lev@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Levski Sofia\nAway: RB Salzburg\nSaudi
   time: 2026-09-17 19:45\nStatus: final\nScore:  | 0 - 1\nVenue: Vasil Levs
@@ -2627,7 +2627,7 @@ BEGIN:VEVENT
 SUMMARY:OFI Crete vs TSG Hoffenheim | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20260917T194500
 DTEND;TZID=Asia/Riyadh:20260917T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-tsg-ofi@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: OFI Crete\nAway: TSG Hoffenheim\nSaudi
   time: 2026-09-17 19:45\nStatus: final\nScore:  | 2 - 0\nVenue: Pankritio 
@@ -2644,7 +2644,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad vs AFC Bournemouth | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20260917T220000
 DTEND;TZID=Asia/Riyadh:20260918T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-bou-rso@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Real Sociedad\nAway: AFC Bournemouth\n
  Saudi time: 2026-09-17 22:00\nStatus: final\nScore:  | 1 - 2\nVenue: Reale
@@ -2661,7 +2661,7 @@ BEGIN:VEVENT
 SUMMARY:Celtic vs Ferencvaros | 1 - 3
 DTSTART;TZID=Asia/Riyadh:20260917T220000
 DTEND;TZID=Asia/Riyadh:20260918T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-fer-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celtic\nAway: Ferencvaros\nSaudi time:
   2026-09-17 22:00\nStatus: final\nScore:  | 1 - 3\nVenue: Celtic Park\nBro
@@ -2678,7 +2678,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace vs Lech Poznan | 4 - 0
 DTSTART;TZID=Asia/Riyadh:20260917T220000
 DTEND;TZID=Asia/Riyadh:20260918T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-lech-cry@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Crystal Palace\nAway: Lech Poznan\nSau
  di time: 2026-09-17 22:00\nStatus: final\nScore:  | 4 - 0\nVenue: Selhurst
@@ -2695,7 +2695,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus vs NEC Nijmegen | 5 - 0
 DTSTART;TZID=Asia/Riyadh:20260917T220000
 DTEND;TZID=Asia/Riyadh:20260918T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-nec-juv@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Juventus\nAway: NEC Nijmegen\nSaudi ti
  me: 2026-09-17 22:00\nStatus: final\nScore:  | 5 - 0\nVenue: Allianz Stadi
@@ -2712,7 +2712,7 @@ BEGIN:VEVENT
 SUMMARY:Besiktas vs Marseille | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20260917T220000
 DTEND;TZID=Asia/Riyadh:20260918T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-olm-bes@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Besiktas\nAway: Marseille\nSaudi time:
   2026-09-17 22:00\nStatus: final\nScore:  | 4 - 1\nVenue: Vodafone Park\nB
@@ -2729,7 +2729,7 @@ BEGIN:VEVENT
 SUMMARY:Lillestrom vs Torreense | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20260917T220000
 DTEND;TZID=Asia/Riyadh:20260918T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-tor-lsk@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lillestrom\nAway: Torreense\nSaudi tim
  e: 2026-09-17 22:00\nStatus: final\nScore:  | 1 - 2\nVenue: Arasen Stadion
@@ -2746,7 +2746,7 @@ BEGIN:VEVENT
 SUMMARY:Viktoria Plzen vs Union St.-Gilloise | 0 - 3
 DTSTART;TZID=Asia/Riyadh:20260917T220000
 DTEND;TZID=Asia/Riyadh:20260918T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20260917-usg-plz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Viktoria Plzen\nAway: Union St.-Gilloi
  se\nSaudi time: 2026-09-17 22:00\nStatus: final\nScore:  | 0 - 3\nVenue: D
@@ -2763,7 +2763,7 @@ BEGIN:VEVENT
 SUMMARY:Lech Poznan vs Bayer Leverkusen | 0 - 4
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-b04-lech@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lech Poznan\nAway: Bayer Leverkusen\nS
  audi time: 2026-10-15 19:45\nStatus: final\nScore:  | 0 - 4\nVenue: Munici
@@ -2780,7 +2780,7 @@ BEGIN:VEVENT
 SUMMARY:Lyon vs Crystal Palace | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-cry-lyon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lyon\nAway: Crystal Palace\nSaudi time
  : 2026-10-15 19:45\nStatus: final\nScore:  | 3 - 2\nVenue: Groupama Stadiu
@@ -2797,7 +2797,7 @@ BEGIN:VEVENT
 SUMMARY:AZ Alkmaar vs Hapoel Be'er | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-hbe-az@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AZ Alkmaar\nAway: Hapoel Be'er\nSaudi 
  time: 2026-10-15 19:45\nStatus: final\nScore:  | 2 - 1\nVenue: AFAS Stadio
@@ -2814,7 +2814,7 @@ BEGIN:VEVENT
 SUMMARY:Sparta Prague vs Lillestrom | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-lsk-spp@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sparta Prague\nAway: Lillestrom\nSaudi
   time: 2026-10-15 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Generali A
@@ -2831,7 +2831,7 @@ BEGIN:VEVENT
 SUMMARY:RB Salzburg vs AC Milan | 0 - 4
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-mil-slz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: RB Salzburg\nAway: AC Milan\nSaudi tim
  e: 2026-10-15 19:45\nStatus: final\nScore:  | 0 - 4\nVenue: Red Bull Arena
@@ -2848,7 +2848,7 @@ BEGIN:VEVENT
 SUMMARY:NK Celje vs Omonia Nicosia | 0 - 3
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-omon-nkc@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NK Celje\nAway: Omonia Nicosia\nSaudi 
  time: 2026-10-15 19:45\nStatus: final\nScore:  | 0 - 3\nVenue: Stadion Z'd
@@ -2865,7 +2865,7 @@ BEGIN:VEVENT
 SUMMARY:Union St.-Gilloise vs Real Sociedad | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-rso-usg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Union St.-Gilloise\nAway: Real Socieda
  d\nSaudi time: 2026-10-15 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Ki
@@ -2882,7 +2882,7 @@ BEGIN:VEVENT
 SUMMARY:Torreense vs Sunderland | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-sun-tor@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Torreense\nAway: Sunderland\nSaudi tim
  e: 2026-10-15 19:45\nStatus: final\nScore:  | 1 - 2\nVenue: Estádio Dr. M
@@ -2899,7 +2899,7 @@ BEGIN:VEVENT
 SUMMARY:Dinamo Zagreb vs Anderlecht | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-and-dzg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Dinamo Zagreb\nAway: Anderlecht\nSaudi
   time: 2026-10-15 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: Maksimir S
@@ -2916,7 +2916,7 @@ BEGIN:VEVENT
 SUMMARY:Jagiellonia Bialystok vs Ararat-Armenia | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-ara-jag@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Jagiellonia Bialystok\nAway: Ararat-Ar
  menia\nSaudi time: 2026-10-15 22:00\nStatus: final\nScore:  | 3 - 1\nVenue
@@ -2933,7 +2933,7 @@ BEGIN:VEVENT
 SUMMARY:TSG Hoffenheim vs Besiktas | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-bes-tsg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: TSG Hoffenheim\nAway: Besiktas\nSaudi 
  time: 2026-10-15 22:00\nStatus: final\nScore:  | 2 - 3\nVenue: PreZero Are
@@ -2950,7 +2950,7 @@ BEGIN:VEVENT
 SUMMARY:Benfica vs Celtic | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-cel-slb@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Benfica\nAway: Celtic\nSaudi time: 202
  6-10-15 22:00\nStatus: final\nScore:  | 4 - 1\nVenue: Estádio da Luz\nBro
@@ -2967,7 +2967,7 @@ BEGIN:VEVENT
 SUMMARY:Celta Vigo vs Juventus | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-juv-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celta Vigo\nAway: Juventus\nSaudi time
  : 2026-10-15 22:00\nStatus: final\nScore:  | 1 - 2\nVenue: Balaidos\nBroad
@@ -2984,7 +2984,7 @@ BEGIN:VEVENT
 SUMMARY:NEC Nijmegen vs Levski Sofia | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-lev-nec@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NEC Nijmegen\nAway: Levski Sofia\nSaud
  i time: 2026-10-15 22:00\nStatus: final\nScore:  | 1 - 1\nVenue: Goffertst
@@ -3001,7 +3001,7 @@ BEGIN:VEVENT
 SUMMARY:Stade Rennais vs OFI Crete | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-ofi-ren@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Stade Rennais\nAway: OFI Crete\nSaudi 
  time: 2026-10-15 22:00\nStatus: final\nScore:  | 2 - 1\nVenue: Roazhon Par
@@ -3018,7 +3018,7 @@ BEGIN:VEVENT
 SUMMARY:Marseille vs Olympiacos | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-oly-olm@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Marseille\nAway: Olympiacos\nSaudi tim
  e: 2026-10-15 22:00\nStatus: final\nScore:  | 0 - 1\nVenue: Stade Vélodro
@@ -3035,7 +3035,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvaros vs Viktoria Plzen | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-plz-fer@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ferencvaros\nAway: Viktoria Plzen\nSau
  di time: 2026-10-15 22:00\nStatus: final\nScore:  | 2 - 1\nVenue: Groupama
@@ -3052,7 +3052,7 @@ BEGIN:VEVENT
 SUMMARY:AFC Bournemouth vs SK Sturm Graz | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261015-stg-bou@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AFC Bournemouth\nAway: SK Sturm Graz\n
  Saudi time: 2026-10-15 22:00\nStatus: final\nScore:  | 3 - 0\nVenue: Vital
@@ -3069,7 +3069,7 @@ BEGIN:VEVENT
 SUMMARY:Ararat-Armenia vs AZ Alkmaar | 0 - 4
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-az-ara@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ararat-Armenia\nAway: AZ Alkmaar\nSaud
  i time: 2026-10-22 19:45\nStatus: final\nScore:  | 0 - 4\nVenue: Vazgen Sa
@@ -3086,7 +3086,7 @@ BEGIN:VEVENT
 SUMMARY:OFI Crete vs Bayer Leverkusen | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-b04-ofi@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: OFI Crete\nAway: Bayer Leverkusen\nSau
  di time: 2026-10-22 19:45\nStatus: final\nScore:  | 0 - 2\nVenue: Pankriti
@@ -3103,7 +3103,7 @@ BEGIN:VEVENT
 SUMMARY:Union St.-Gilloise vs Hapoel Be'er | 4 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-hbe-usg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Union St.-Gilloise\nAway: Hapoel Be'er
  \nSaudi time: 2026-10-22 19:45\nStatus: final\nScore:  | 4 - 0\nVenue: Mer
@@ -3120,7 +3120,7 @@ BEGIN:VEVENT
 SUMMARY:Dinamo Zagreb vs NEC Nijmegen | 2 - 4
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-nec-dzg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Dinamo Zagreb\nAway: NEC Nijmegen\nSau
  di time: 2026-10-22 19:45\nStatus: final\nScore:  | 2 - 4\nVenue: Maksimir
@@ -3137,7 +3137,7 @@ BEGIN:VEVENT
 SUMMARY:SK Sturm Graz vs Marseille | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-olm-stg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: SK Sturm Graz\nAway: Marseille\nSaudi 
  time: 2026-10-22 19:45\nStatus: final\nScore:  | 1 - 0\nVenue: Merkur Aren
@@ -3154,7 +3154,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus vs Stade Rennais | 2 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-ren-juv@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Juventus\nAway: Stade Rennais\nSaudi t
  ime: 2026-10-22 19:45\nStatus: final\nScore:  | 2 - 2\nVenue: Allianz Stad
@@ -3171,7 +3171,7 @@ BEGIN:VEVENT
 SUMMARY:Lech Poznan vs Sunderland | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-sun-lech@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lech Poznan\nAway: Sunderland\nSaudi t
  ime: 2026-10-22 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Municipal St
@@ -3188,7 +3188,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvaros vs Torreense | 4 - 1
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-tor-fer@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ferencvaros\nAway: Torreense\nSaudi ti
  me: 2026-10-22 19:45\nStatus: final\nScore:  | 4 - 1\nVenue: Groupama Aren
@@ -3205,7 +3205,7 @@ BEGIN:VEVENT
 SUMMARY:Jagiellonia Bialystok vs Anderlecht | 0 - 3
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-and-jag@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Jagiellonia Bialystok\nAway: Anderlech
  t\nSaudi time: 2026-10-22 22:00\nStatus: final\nScore:  | 0 - 3\nVenue: St
@@ -3222,7 +3222,7 @@ BEGIN:VEVENT
 SUMMARY:Celtic vs Celta Vigo | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-cel-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celtic\nAway: Celta Vigo\nSaudi time: 
  2026-10-22 22:00\nStatus: final\nScore:  | 1 - 2\nVenue: Celtic Park\nBroa
@@ -3239,7 +3239,7 @@ BEGIN:VEVENT
 SUMMARY:Besiktas vs Crystal Palace | 2 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-cry-bes@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Besiktas\nAway: Crystal Palace\nSaudi 
  time: 2026-10-22 22:00\nStatus: final\nScore:  | 2 - 2\nVenue: Vodafone Pa
@@ -3256,7 +3256,7 @@ BEGIN:VEVENT
 SUMMARY:Viktoria Plzen vs Levski Sofia | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-lev-plz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Viktoria Plzen\nAway: Levski Sofia\nSa
  udi time: 2026-10-22 22:00\nStatus: final\nScore:  | 1 - 2\nVenue: Doosan 
@@ -3273,7 +3273,7 @@ BEGIN:VEVENT
 SUMMARY:TSG Hoffenheim vs Lyon | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-lyon-tsg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: TSG Hoffenheim\nAway: Lyon\nSaudi time
  : 2026-10-22 22:00\nStatus: final\nScore:  | 3 - 0\nVenue: PreZero Arena\n
@@ -3290,7 +3290,7 @@ BEGIN:VEVENT
 SUMMARY:AFC Bournemouth vs AC Milan | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-mil-bou@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AFC Bournemouth\nAway: AC Milan\nSaudi
   time: 2026-10-22 22:00\nStatus: final\nScore:  | 3 - 0\nVenue: Vitality S
@@ -3307,7 +3307,7 @@ BEGIN:VEVENT
 SUMMARY:Lillestrom vs Real Sociedad | 0 - 6
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-rso-lsk@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lillestrom\nAway: Real Sociedad\nSaudi
   time: 2026-10-22 22:00\nStatus: final\nScore:  | 0 - 6\nVenue: Arasen Sta
@@ -3324,7 +3324,7 @@ BEGIN:VEVENT
 SUMMARY:Omonia Nicosia vs Benfica | 1 - 4
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-slb-omon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Omonia Nicosia\nAway: Benfica\nSaudi t
  ime: 2026-10-22 22:00\nStatus: final\nScore:  | 1 - 4\nVenue: GSP Stadium\
@@ -3341,7 +3341,7 @@ BEGIN:VEVENT
 SUMMARY:NK Celje vs RB Salzburg | 2 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-slz-nkc@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NK Celje\nAway: RB Salzburg\nSaudi tim
  e: 2026-10-22 22:00\nStatus: final\nScore:  | 2 - 2\nVenue: Stadion Z'deze
@@ -3358,7 +3358,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiacos vs Sparta Prague | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261022-spp-oly@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Olympiacos\nAway: Sparta Prague\nSaudi
   time: 2026-10-22 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: Georgios K
@@ -3375,7 +3375,7 @@ BEGIN:VEVENT
 SUMMARY:Stade Rennais vs Olympiacos | 0 - 0
 DTSTART;TZID=Asia/Riyadh:20261104T183000
 DTEND;TZID=Asia/Riyadh:20261104T203000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-oly-ren@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Stade Rennais\nAway: Olympiacos\nSaudi
   time: 2026-11-04 18:30\nStatus: final\nScore:  | 0 - 0\nVenue: Roazhon Pa
@@ -3392,7 +3392,7 @@ BEGIN:VEVENT
 SUMMARY:Sparta Prague vs AFC Bournemouth | 1 - 3
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-bou-spp@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sparta Prague\nAway: AFC Bournemouth\n
  Saudi time: 2026-11-05 20:45\nStatus: final\nScore:  | 1 - 3\nVenue: Gener
@@ -3409,7 +3409,7 @@ BEGIN:VEVENT
 SUMMARY:AC Milan vs Ferencvaros | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-fer-mil@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AC Milan\nAway: Ferencvaros\nSaudi tim
  e: 2026-11-05 20:45\nStatus: final\nScore:  | 0 - 2\nVenue: San Siro\nBroa
@@ -3426,7 +3426,7 @@ BEGIN:VEVENT
 SUMMARY:Levski Sofia vs Jagiellonia Bialystok | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-jag-lev@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Levski Sofia\nAway: Jagiellonia Bialys
  tok\nSaudi time: 2026-11-05 20:45\nStatus: final\nScore:  | 1 - 0\nVenue: 
@@ -3443,7 +3443,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad vs Lyon | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-lyon-rso@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Real Sociedad\nAway: Lyon\nSaudi time:
   2026-11-05 20:45\nStatus: final\nScore:  | 1 - 1\nVenue: Reale Arena\nBro
@@ -3460,7 +3460,7 @@ BEGIN:VEVENT
 SUMMARY:NEC Nijmegen vs Omonia Nicosia | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-omon-nec@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NEC Nijmegen\nAway: Omonia Nicosia\nSa
  udi time: 2026-11-05 20:45\nStatus: final\nScore:  | 3 - 1\nVenue: Goffert
@@ -3477,7 +3477,7 @@ BEGIN:VEVENT
 SUMMARY:Lillestrom vs Viktoria Plzen | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-plz-lsk@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lillestrom\nAway: Viktoria Plzen\nSaud
  i time: 2026-11-05 20:45\nStatus: final\nScore:  | 0 - 1\nVenue: Arasen St
@@ -3494,7 +3494,7 @@ BEGIN:VEVENT
 SUMMARY:Anderlecht vs RB Salzburg | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-slz-and@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Anderlecht\nAway: RB Salzburg\nSaudi t
  ime: 2026-11-05 20:45\nStatus: final\nScore:  | 2 - 0\nVenue: Lotto Park\n
@@ -3511,7 +3511,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace vs TSG Hoffenheim | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-tsg-cry@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Crystal Palace\nAway: TSG Hoffenheim\n
  Saudi time: 2026-11-05 20:45\nStatus: final\nScore:  | 1 - 1\nVenue: Selhu
@@ -3528,7 +3528,7 @@ BEGIN:VEVENT
 SUMMARY:Torreense vs Ararat-Armenia | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-ara-tor@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Torreense\nAway: Ararat-Armenia\nSaudi
   time: 2026-11-05 23:00\nStatus: final\nScore:  | 3 - 2\nVenue: Estádio D
@@ -3545,7 +3545,7 @@ BEGIN:VEVENT
 SUMMARY:Celtic vs Besiktas | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-bes-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celtic\nAway: Besiktas\nSaudi time: 20
  26-11-05 23:00\nStatus: final\nScore:  | 3 - 2\nVenue: Celtic Park\nBroadc
@@ -3562,7 +3562,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland vs Dinamo Zagreb | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-dzg-sun@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sunderland\nAway: Dinamo Zagreb\nSaudi
   time: 2026-11-05 23:00\nStatus: final\nScore:  | 0 - 2\nVenue: Stadium of
@@ -3579,7 +3579,7 @@ BEGIN:VEVENT
 SUMMARY:AZ Alkmaar vs Juventus | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-juv-az@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AZ Alkmaar\nAway: Juventus\nSaudi time
  : 2026-11-05 23:00\nStatus: final\nScore:  | 1 - 2\nVenue: AFAS Stadion\nB
@@ -3596,7 +3596,7 @@ BEGIN:VEVENT
 SUMMARY:Benfica vs Lech Poznan | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-lech-slb@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Benfica\nAway: Lech Poznan\nSaudi time
  : 2026-11-05 23:00\nStatus: final\nScore:  | 3 - 1\nVenue: Estádio da Luz
@@ -3613,7 +3613,7 @@ BEGIN:VEVENT
 SUMMARY:SK Sturm Graz vs NK Celje | 2 - 3
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-nkc-stg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: SK Sturm Graz\nAway: NK Celje\nSaudi t
  ime: 2026-11-05 23:00\nStatus: final\nScore:  | 2 - 3\nVenue: Merkur Arena
@@ -3630,7 +3630,7 @@ BEGIN:VEVENT
 SUMMARY:Hapoel Be'er vs OFI Crete | 0 - 2
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-ofi-hbe@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Hapoel Be'er\nAway: OFI Crete\nSaudi t
  ime: 2026-11-05 23:00\nStatus: final\nScore:  | 0 - 2\nVenue: Giulesti Sta
@@ -3647,7 +3647,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen vs Marseille | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-olm-b04@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Bayer Leverkusen\nAway: Marseille\nSau
  di time: 2026-11-05 23:00\nStatus: final\nScore:  | 0 - 1\nVenue: BayArena
@@ -3664,7 +3664,7 @@ BEGIN:VEVENT
 SUMMARY:Celta Vigo vs Union St.-Gilloise | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261105-usg-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celta Vigo\nAway: Union St.-Gilloise\n
  Saudi time: 2026-11-05 23:00\nStatus: final\nScore:  | 1 - 2\nVenue: Balai
@@ -3681,7 +3681,7 @@ BEGIN:VEVENT
 SUMMARY:RB Salzburg vs Ararat-Armenia
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-ara-slz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: RB Salzburg\nAway: Ararat-Armenia\nSau
  di time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue:
@@ -3698,7 +3698,7 @@ BEGIN:VEVENT
 SUMMARY:Dinamo Zagreb vs Bayer Leverkusen
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-b04-dzg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Dinamo Zagreb\nAway: Bayer Leverkusen\
  nSaudi time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVe
@@ -3715,7 +3715,7 @@ BEGIN:VEVENT
 SUMMARY:Celta Vigo vs AFC Bournemouth
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-bou-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celta Vigo\nAway: AFC Bournemouth\nSau
  di time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue:
@@ -3732,7 +3732,7 @@ BEGIN:VEVENT
 SUMMARY:Besiktas vs Hapoel Be'er
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-hbe-bes@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Besiktas\nAway: Hapoel Be'er\nSaudi ti
  me: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Batu
@@ -3749,7 +3749,7 @@ BEGIN:VEVENT
 SUMMARY:Union St.-Gilloise vs Lech Poznan
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-lech-usg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Union St.-Gilloise\nAway: Lech Poznan\
  nSaudi time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVe
@@ -3766,7 +3766,7 @@ BEGIN:VEVENT
 SUMMARY:Marseille vs Levski Sofia
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-lev-olm@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Marseille\nAway: Levski Sofia\nSaudi t
  ime: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Sta
@@ -3783,7 +3783,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiacos vs AC Milan
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-mil-oly@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Olympiacos\nAway: AC Milan\nSaudi time
  : 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Georgi
@@ -3800,7 +3800,7 @@ BEGIN:VEVENT
 SUMMARY:Viktoria Plzen vs Benfica
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-slb-plz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Viktoria Plzen\nAway: Benfica\nSaudi t
  ime: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Doo
@@ -3817,7 +3817,7 @@ BEGIN:VEVENT
 SUMMARY:OFI Crete vs Anderlecht
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-and-ofi@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: OFI Crete\nAway: Anderlecht\nSaudi tim
  e: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Pankr
@@ -3834,7 +3834,7 @@ BEGIN:VEVENT
 SUMMARY:Sparta Prague vs AZ Alkmaar
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-az-spp@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sparta Prague\nAway: AZ Alkmaar\nSaudi
   time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: G
@@ -3851,7 +3851,7 @@ BEGIN:VEVENT
 SUMMARY:Torreense vs Celtic
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-cel-tor@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Torreense\nAway: Celtic\nSaudi time: 2
  026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Estádio 
@@ -3868,7 +3868,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland vs Jagiellonia Bialystok
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-jag-sun@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sunderland\nAway: Jagiellonia Bialysto
  k\nSaudi time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\n
@@ -3885,7 +3885,7 @@ BEGIN:VEVENT
 SUMMARY:Lyon vs Lillestrom
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-lsk-lyon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lyon\nAway: Lillestrom\nSaudi time: 20
  26-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Groupama S
@@ -3902,7 +3902,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvaros vs NK Celje
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-nkc-fer@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ferencvaros\nAway: NK Celje\nSaudi tim
  e: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Group
@@ -3919,7 +3919,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus vs Omonia Nicosia
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-omon-juv@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Juventus\nAway: Omonia Nicosia\nSaudi 
  time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Al
@@ -3936,7 +3936,7 @@ BEGIN:VEVENT
 SUMMARY:NEC Nijmegen vs Stade Rennais
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-ren-nec@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NEC Nijmegen\nAway: Stade Rennais\nSau
  di time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue:
@@ -3953,7 +3953,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace vs Real Sociedad
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-rso-cry@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Crystal Palace\nAway: Real Sociedad\nS
  audi time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -3970,7 +3970,7 @@ BEGIN:VEVENT
 SUMMARY:TSG Hoffenheim vs SK Sturm Graz
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261126-stg-tsg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: TSG Hoffenheim\nAway: SK Sturm Graz\nS
  audi time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -3987,7 +3987,7 @@ BEGIN:VEVENT
 SUMMARY:Marseille vs Celta Vigo
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-cel-olm@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Marseille\nAway: Celta Vigo\nSaudi tim
  e: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: Stade
@@ -4004,7 +4004,7 @@ BEGIN:VEVENT
 SUMMARY:Omonia Nicosia vs Celtic
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-cel-omon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Omonia Nicosia\nAway: Celtic\nSaudi ti
  me: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: GSP 
@@ -4021,7 +4021,7 @@ BEGIN:VEVENT
 SUMMARY:Jagiellonia Bialystok vs Crystal Palace
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-cry-jag@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Jagiellonia Bialystok\nAway: Crystal P
  alace\nSaudi time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not availab
@@ -4038,7 +4038,7 @@ BEGIN:VEVENT
 SUMMARY:Stade Rennais vs Dinamo Zagreb
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-dzg-ren@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Stade Rennais\nAway: Dinamo Zagreb\nSa
  udi time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue
@@ -4055,7 +4055,7 @@ BEGIN:VEVENT
 SUMMARY:Hapoel Be'er vs Juventus
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-juv-hbe@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Hapoel Be'er\nAway: Juventus\nSaudi ti
  me: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: Giul
@@ -4072,7 +4072,7 @@ BEGIN:VEVENT
 SUMMARY:Ararat-Armenia vs NEC Nijmegen
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-nec-ara@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ararat-Armenia\nAway: NEC Nijmegen\nSa
  udi time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue
@@ -4089,7 +4089,7 @@ BEGIN:VEVENT
 SUMMARY:NK Celje vs Olympiacos
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-oly-nkc@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NK Celje\nAway: Olympiacos\nSaudi time
  : 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: Stadio
@@ -4106,7 +4106,7 @@ BEGIN:VEVENT
 SUMMARY:AZ Alkmaar vs SK Sturm Graz
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-stg-az@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AZ Alkmaar\nAway: SK Sturm Graz\nSaudi
   time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: A
@@ -4123,7 +4123,7 @@ BEGIN:VEVENT
 SUMMARY:Anderlecht vs TSG Hoffenheim
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-tsg-and@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Anderlecht\nAway: TSG Hoffenheim\nSaud
  i time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -4140,7 +4140,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen vs Besiktas
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-bes-b04@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Bayer Leverkusen\nAway: Besiktas\nSaud
  i time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -4157,7 +4157,7 @@ BEGIN:VEVENT
 SUMMARY:Lech Poznan vs Ferencvaros
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-fer-lech@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lech Poznan\nAway: Ferencvaros\nSaudi 
  time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Mu
@@ -4174,7 +4174,7 @@ BEGIN:VEVENT
 SUMMARY:Levski Sofia vs Lillestrom
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-lsk-lev@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Levski Sofia\nAway: Lillestrom\nSaudi 
  time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Va
@@ -4191,7 +4191,7 @@ BEGIN:VEVENT
 SUMMARY:Benfica vs OFI Crete
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-ofi-slb@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Benfica\nAway: OFI Crete\nSaudi time: 
  2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Estádio
@@ -4208,7 +4208,7 @@ BEGIN:VEVENT
 SUMMARY:AFC Bournemouth vs Viktoria Plzen
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-plz-bou@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AFC Bournemouth\nAway: Viktoria Plzen\
  nSaudi time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVe
@@ -4225,7 +4225,7 @@ BEGIN:VEVENT
 SUMMARY:RB Salzburg vs Sparta Prague
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-spp-slz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: RB Salzburg\nAway: Sparta Prague\nSaud
  i time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -4242,7 +4242,7 @@ BEGIN:VEVENT
 SUMMARY:AC Milan vs Sunderland
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-sun-mil@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AC Milan\nAway: Sunderland\nSaudi time
  : 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: San Si
@@ -4259,7 +4259,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad vs Torreense
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-tor-rso@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Real Sociedad\nAway: Torreense\nSaudi 
  time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Re
@@ -4276,7 +4276,7 @@ BEGIN:VEVENT
 SUMMARY:Lyon vs Union St.-Gilloise
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20261210-usg-lyon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lyon\nAway: Union St.-Gilloise\nSaudi 
  time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Gr
@@ -4293,7 +4293,7 @@ BEGIN:VEVENT
 SUMMARY:Lillestrom vs AFC Bournemouth
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-bou-lsk@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lillestrom\nAway: AFC Bournemouth\nSau
  di time: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue:
@@ -4310,7 +4310,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvaros vs Juventus
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-juv-fer@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ferencvaros\nAway: Juventus\nSaudi tim
  e: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue: Group
@@ -4327,7 +4327,7 @@ BEGIN:VEVENT
 SUMMARY:Jagiellonia Bialystok vs Lyon
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-lyon-jag@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Jagiellonia Bialystok\nAway: Lyon\nSau
  di time: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue:
@@ -4344,7 +4344,7 @@ BEGIN:VEVENT
 SUMMARY:Ararat-Armenia vs NK Celje
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-nkc-ara@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Ararat-Armenia\nAway: NK Celje\nSaudi 
  time: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue: Va
@@ -4361,7 +4361,7 @@ BEGIN:VEVENT
 SUMMARY:SK Sturm Graz vs OFI Crete
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-ofi-stg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: SK Sturm Graz\nAway: OFI Crete\nSaudi 
  time: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue: Me
@@ -4378,7 +4378,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad vs Viktoria Plzen
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-plz-rso@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Real Sociedad\nAway: Viktoria Plzen\nS
  audi time: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenu
@@ -4395,7 +4395,7 @@ BEGIN:VEVENT
 SUMMARY:NEC Nijmegen vs Benfica
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-slb-nec@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NEC Nijmegen\nAway: Benfica\nSaudi tim
  e: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue: Goffe
@@ -4412,7 +4412,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiacos vs TSG Hoffenheim
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-tsg-oly@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Olympiacos\nAway: TSG Hoffenheim\nSaud
  i time: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -4429,7 +4429,7 @@ BEGIN:VEVENT
 SUMMARY:Besiktas vs Union St.-Gilloise
 DTSTART;TZID=Asia/Riyadh:20270121T204500
 DTEND;TZID=Asia/Riyadh:20270121T224500
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-usg-bes@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Besiktas\nAway: Union St.-Gilloise\nSa
  udi time: 2027-01-21 20:45\nStatus: scheduled\nScore: Not available\nVenue
@@ -4446,7 +4446,7 @@ BEGIN:VEVENT
 SUMMARY:Hapoel Be'er vs Celta Vigo
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-cel-hbe@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Hapoel Be'er\nAway: Celta Vigo\nSaudi 
  time: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenue: Gi
@@ -4463,7 +4463,7 @@ BEGIN:VEVENT
 SUMMARY:AZ Alkmaar vs Dinamo Zagreb
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-dzg-az@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AZ Alkmaar\nAway: Dinamo Zagreb\nSaudi
   time: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenue: A
@@ -4480,7 +4480,7 @@ BEGIN:VEVENT
 SUMMARY:Levski Sofia vs AC Milan
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-mil-lev@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Levski Sofia\nAway: AC Milan\nSaudi ti
  me: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenue: Vasi
@@ -4497,7 +4497,7 @@ BEGIN:VEVENT
 SUMMARY:Celtic vs Marseille
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-olm-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celtic\nAway: Marseille\nSaudi time: 2
  027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenue: Celtic Pa
@@ -4514,7 +4514,7 @@ BEGIN:VEVENT
 SUMMARY:Stade Rennais vs Omonia Nicosia
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-omon-ren@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Stade Rennais\nAway: Omonia Nicosia\nS
  audi time: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -4531,7 +4531,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen vs RB Salzburg
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-slz-b04@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Bayer Leverkusen\nAway: RB Salzburg\nS
  audi time: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -4548,7 +4548,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace vs Sparta Prague
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-spp-cry@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Crystal Palace\nAway: Sparta Prague\nS
  audi time: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -4565,7 +4565,7 @@ BEGIN:VEVENT
 SUMMARY:Anderlecht vs Sunderland
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-sun-and@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Anderlecht\nAway: Sunderland\nSaudi ti
  me: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenue: Lott
@@ -4582,7 +4582,7 @@ BEGIN:VEVENT
 SUMMARY:Lech Poznan vs Torreense
 DTSTART;TZID=Asia/Riyadh:20270121T230000
 DTEND;TZID=Asia/Riyadh:20270122T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270121-tor-lech@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lech Poznan\nAway: Torreense\nSaudi ti
  me: 2027-01-21 23:00\nStatus: scheduled\nScore: Not available\nVenue: Muni
@@ -4599,7 +4599,7 @@ BEGIN:VEVENT
 SUMMARY:Marseille vs Anderlecht
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-and-olm@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Marseille\nAway: Anderlecht\nSaudi tim
  e: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stade
@@ -4616,7 +4616,7 @@ BEGIN:VEVENT
 SUMMARY:AC Milan vs Ararat-Armenia
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-ara-mil@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AC Milan\nAway: Ararat-Armenia\nSaudi 
  time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Sa
@@ -4633,7 +4633,7 @@ BEGIN:VEVENT
 SUMMARY:Benfica vs AZ Alkmaar
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-az-slb@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Benfica\nAway: AZ Alkmaar\nSaudi time:
   2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Estádi
@@ -4650,7 +4650,7 @@ BEGIN:VEVENT
 SUMMARY:Lyon vs Bayer Leverkusen
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-b04-lyon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Lyon\nAway: Bayer Leverkusen\nSaudi ti
  me: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Grou
@@ -4667,7 +4667,7 @@ BEGIN:VEVENT
 SUMMARY:Omonia Nicosia vs Besiktas
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-bes-omon@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Omonia Nicosia\nAway: Besiktas\nSaudi 
  time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: GS
@@ -4684,7 +4684,7 @@ BEGIN:VEVENT
 SUMMARY:Union St.-Gilloise vs Celtic
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-cel-usg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Union St.-Gilloise\nAway: Celtic\nSaud
  i time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -4701,7 +4701,7 @@ BEGIN:VEVENT
 SUMMARY:RB Salzburg vs Crystal Palace
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-cry-slz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: RB Salzburg\nAway: Crystal Palace\nSau
  di time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue:
@@ -4718,7 +4718,7 @@ BEGIN:VEVENT
 SUMMARY:TSG Hoffenheim vs Ferencvaros
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-fer-tsg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: TSG Hoffenheim\nAway: Ferencvaros\nSau
  di time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue:
@@ -4735,7 +4735,7 @@ BEGIN:VEVENT
 SUMMARY:AFC Bournemouth vs Hapoel Be'er
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-hbe-bou@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: AFC Bournemouth\nAway: Hapoel Be'er\nS
  audi time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -4752,7 +4752,7 @@ BEGIN:VEVENT
 SUMMARY:Viktoria Plzen vs Jagiellonia Bialystok
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-jag-plz@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Viktoria Plzen\nAway: Jagiellonia Bial
  ystok\nSaudi time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not availab
@@ -4769,7 +4769,7 @@ BEGIN:VEVENT
 SUMMARY:OFI Crete vs Lech Poznan
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-lech-ofi@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: OFI Crete\nAway: Lech Poznan\nSaudi ti
  me: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Pank
@@ -4786,7 +4786,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland vs Levski Sofia
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-lev-sun@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sunderland\nAway: Levski Sofia\nSaudi 
  time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: St
@@ -4803,7 +4803,7 @@ BEGIN:VEVENT
 SUMMARY:Celta Vigo vs Lillestrom
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-lsk-cel@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Celta Vigo\nAway: Lillestrom\nSaudi ti
  me: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Bala
@@ -4820,7 +4820,7 @@ BEGIN:VEVENT
 SUMMARY:NK Celje vs NEC Nijmegen
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-nec-nkc@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: NK Celje\nAway: NEC Nijmegen\nSaudi ti
  me: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stad
@@ -4837,7 +4837,7 @@ BEGIN:VEVENT
 SUMMARY:Torreense vs Olympiacos
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-oly-tor@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Torreense\nAway: Olympiacos\nSaudi tim
  e: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: Está
@@ -4854,7 +4854,7 @@ BEGIN:VEVENT
 SUMMARY:Sparta Prague vs Stade Rennais
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-ren-spp@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Sparta Prague\nAway: Stade Rennais\nSa
  udi time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -4871,7 +4871,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus vs Real Sociedad
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-rso-juv@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Juventus\nAway: Real Sociedad\nSaudi t
  ime: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue: All
@@ -4888,7 +4888,7 @@ BEGIN:VEVENT
 SUMMARY:Dinamo Zagreb vs SK Sturm Graz
 DTSTART;TZID=Asia/Riyadh:20270128T230000
 DTEND;TZID=Asia/Riyadh:20270129T010000
-DTSTAMP:20261109T074818Z
+DTSTAMP:20261109T133543Z
 UID:uel-20270128-stg-dzg@football-fixtures-saudi
 DESCRIPTION:Competition: uel\nHome: Dinamo Zagreb\nAway: SK Sturm Graz\nSa
  udi time: 2027-01-28 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -4905,7 +4905,7 @@ BEGIN:VEVENT
 SUMMARY:KAA Gent vs AGF | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-agf-gent@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: KAA Gent\nAway: AGF\nSaudi time: 2026
  -10-15 19:45\nStatus: final\nScore:  | 1 - 0\nVenue: Ghelamco Arena\nBroad
@@ -4922,7 +4922,7 @@ BEGIN:VEVENT
 SUMMARY:Hajduk Split vs Ajax Amsterdam | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-aja-haj@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Hajduk Split\nAway: Ajax Amsterdam\nS
  audi time: 2026-10-15 19:45\nStatus: final\nScore:  | 2 - 1\nVenue: Stadio
@@ -4939,7 +4939,7 @@ BEGIN:VEVENT
 SUMMARY:Panathinaikos vs Borac Banja Luka | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-bbl-pao@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Panathinaikos\nAway: Borac Banja Luka
  \nSaudi time: 2026-10-15 19:45\nStatus: final\nScore:  | 2 - 1\nVenue: Ath
@@ -4956,7 +4956,7 @@ BEGIN:VEVENT
 SUMMARY:CSU Craiova vs Getafe | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-get-ucra@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: CSU Craiova\nAway: Getafe\nSaudi time
  : 2026-10-15 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Stadionul Ion O
@@ -4973,7 +4973,7 @@ BEGIN:VEVENT
 SUMMARY:Mjällby AIF vs Inter D'Escaldes | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-ide-mja@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Mjällby AIF\nAway: Inter D'Escaldes\
  nSaudi time: 2026-10-15 19:45\nStatus: final\nScore:  | 2 - 0\nVenue: Olym
@@ -4990,7 +4990,7 @@ BEGIN:VEVENT
 SUMMARY:Riga FC vs Kairat Almaty | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-kai-rig@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Riga FC\nAway: Kairat Almaty\nSaudi t
  ime: 2026-10-15 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Skonto Stadi
@@ -5007,7 +5007,7 @@ BEGIN:VEVENT
 SUMMARY:Egnatia vs FC Midtjylland | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-mid-egn@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Egnatia\nAway: FC Midtjylland\nSaudi 
  time: 2026-10-15 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Elbasan Are
@@ -5024,7 +5024,7 @@ BEGIN:VEVENT
 SUMMARY:CSKA Sofia vs AS Monaco | 1 - 2
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-mon-cska@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: CSKA Sofia\nAway: AS Monaco\nSaudi ti
  me: 2026-10-15 19:45\nStatus: final\nScore:  | 1 - 2\nVenue: Vasil Levski 
@@ -5041,7 +5041,7 @@ BEGIN:VEVENT
 SUMMARY:FC Lugano vs Red Star Belgrade | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-rsb-lug@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Lugano\nAway: Red Star Belgrade\nS
  audi time: 2026-10-15 19:45\nStatus: final\nScore:  | 3 - 2\nVenue: AIL Ar
@@ -5058,7 +5058,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS Kuopio vs Trabzonspor | 2 - 4
 DTSTART;TZID=Asia/Riyadh:20261015T194500
 DTEND;TZID=Asia/Riyadh:20261015T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-trab-kups@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: KuPS Kuopio\nAway: Trabzonspor\nSaudi
   time: 2026-10-15 19:45\nStatus: final\nScore:  | 2 - 4\nVenue: Tammelan S
@@ -5075,7 +5075,7 @@ BEGIN:VEVENT
 SUMMARY:Heart of Midlothian vs FC Nordsjælland | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-fcn-hom@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Heart of Midlothian\nAway: FC Nordsj
  ælland\nSaudi time: 2026-10-15 22:00\nStatus: final\nScore:  | 1 - 1\nVen
@@ -5092,7 +5092,7 @@ BEGIN:VEVENT
 SUMMARY:Sint-Truidense vs Iberia 1999 | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-ibe-stvv@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Sint-Truidense\nAway: Iberia 1999\nSa
  udi time: 2026-10-15 22:00\nStatus: final\nScore:  | 2 - 0\nVenue: Daio Wa
@@ -5109,7 +5109,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg vs Jablonec | 3 - 2
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-jabl-scf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: SC Freiburg\nAway: Jablonec\nSaudi ti
  me: 2026-10-15 22:00\nStatus: final\nScore:  | 3 - 2\nVenue: Europa-Park S
@@ -5126,7 +5126,7 @@ BEGIN:VEVENT
 SUMMARY:SK Brann vs Lincoln Red Imps | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-lri-skbr@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: SK Brann\nAway: Lincoln Red Imps\nSau
  di time: 2026-10-15 22:00\nStatus: final\nScore:  | 2 - 1\nVenue: Brann St
@@ -5143,7 +5143,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta vs Pafos | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-paf-ata@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Atalanta\nAway: Pafos\nSaudi time: 20
  26-10-15 22:00\nStatus: final\nScore:  | 3 - 1\nVenue: New Balance Arena\n
@@ -5160,7 +5160,7 @@ BEGIN:VEVENT
 SUMMARY:F.C. København vs Braga | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-scb-kbh@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: F.C. København\nAway: Braga\nSaudi t
  ime: 2026-10-15 22:00\nStatus: final\nScore:  | 3 - 0\nVenue: Parken Stadi
@@ -5177,7 +5177,7 @@ BEGIN:VEVENT
 SUMMARY:FC Twente vs FC Thun | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-thun-twe@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Twente\nAway: FC Thun\nSaudi time:
   2026-10-15 22:00\nStatus: final\nScore:  | 1 - 0\nVenue: De Grolsch Veste
@@ -5194,7 +5194,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton & Hove Albion vs Kauno Zalgiris | 4 - 0
 DTSTART;TZID=Asia/Riyadh:20261015T220000
 DTEND;TZID=Asia/Riyadh:20261016T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261015-zal-bha@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Brighton & Hove Albion\nAway: Kauno Z
  algiris\nSaudi time: 2026-10-15 22:00\nStatus: final\nScore:  | 4 - 0\nVen
@@ -5211,7 +5211,7 @@ BEGIN:VEVENT
 SUMMARY:Kairat Almaty vs Panathinaikos | 1 - 5
 DTSTART;TZID=Asia/Riyadh:20261022T173000
 DTEND;TZID=Asia/Riyadh:20261022T193000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-pao-kai@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Kairat Almaty\nAway: Panathinaikos\nS
  audi time: 2026-10-22 17:30\nStatus: final\nScore:  | 1 - 5\nVenue: Almaty
@@ -5228,7 +5228,7 @@ BEGIN:VEVENT
 SUMMARY:Jablonec vs Brighton & Hove Albion | 0 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-bha-jabl@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Jablonec\nAway: Brighton & Hove Albio
  n\nSaudi time: 2026-10-22 19:45\nStatus: final\nScore:  | 0 - 0\nVenue: St
@@ -5245,7 +5245,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nordsjælland vs CSKA Sofia | 2 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-cska-fcn@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Nordsjælland\nAway: CSKA Sofia\nS
  audi time: 2026-10-22 19:45\nStatus: final\nScore:  | 2 - 2\nVenue: Right 
@@ -5262,7 +5262,7 @@ BEGIN:VEVENT
 SUMMARY:Trabzonspor vs Heart of Midlothian | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-hom-trab@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Trabzonspor\nAway: Heart of Midlothia
  n\nSaudi time: 2026-10-22 19:45\nStatus: final\nScore:  | 2 - 0\nVenue: Pa
@@ -5279,7 +5279,7 @@ BEGIN:VEVENT
 SUMMARY:Red Star Belgrade vs F.C. København | 2 - 2
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-kbh-rsb@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Red Star Belgrade\nAway: F.C. Københ
  avn\nSaudi time: 2026-10-22 19:45\nStatus: final\nScore:  | 2 - 2\nVenue: 
@@ -5296,7 +5296,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe vs FC Lugano | 2 - 5
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-lug-get@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Getafe\nAway: FC Lugano\nSaudi time: 
  2026-10-22 19:45\nStatus: final\nScore:  | 2 - 5\nVenue: Estadio Coliseum\
@@ -5313,7 +5313,7 @@ BEGIN:VEVENT
 SUMMARY:Iberia 1999 vs Mjällby AIF | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-mja-ibe@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Iberia 1999\nAway: Mjällby AIF\nSaud
  i time: 2026-10-22 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Mikheil M
@@ -5330,7 +5330,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos vs Riga FC | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-rig-paf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Pafos\nAway: Riga FC\nSaudi time: 202
  6-10-22 19:45\nStatus: final\nScore:  | 1 - 1\nVenue: Alphamega Stadium\nB
@@ -5347,7 +5347,7 @@ BEGIN:VEVENT
 SUMMARY:Kauno Zalgiris vs SK Brann | 1 - 4
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-skbr-zal@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Kauno Zalgiris\nAway: SK Brann\nSaudi
   time: 2026-10-22 19:45\nStatus: final\nScore:  | 1 - 4\nVenue: S. Darius 
@@ -5364,7 +5364,7 @@ BEGIN:VEVENT
 SUMMARY:Inter D'Escaldes vs CSU Craiova | 1 - 3
 DTSTART;TZID=Asia/Riyadh:20261022T194500
 DTEND;TZID=Asia/Riyadh:20261022T214500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-ucra-ide@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Inter D'Escaldes\nAway: CSU Craiova\n
  Saudi time: 2026-10-22 19:45\nStatus: final\nScore:  | 1 - 3\nVenue: Estad
@@ -5381,7 +5381,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam vs Atalanta | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-ata-aja@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Ajax Amsterdam\nAway: Atalanta\nSaudi
   time: 2026-10-22 22:00\nStatus: final\nScore:  | 2 - 0\nVenue: Johan Crui
@@ -5398,7 +5398,7 @@ BEGIN:VEVENT
 SUMMARY:AGF vs Egnatia | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-egn-agf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: AGF\nAway: Egnatia\nSaudi time: 2026-
  10-22 22:00\nStatus: final\nScore:  | 1 - 1\nVenue: Cepheus Park Randers\n
@@ -5415,7 +5415,7 @@ BEGIN:VEVENT
 SUMMARY:Braga vs KAA Gent | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-gent-scb@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Braga\nAway: KAA Gent\nSaudi time: 20
  26-10-22 22:00\nStatus: final\nScore:  | 2 - 0\nVenue: Estádio Municipal 
@@ -5432,7 +5432,7 @@ BEGIN:VEVENT
 SUMMARY:FC Thun vs Hajduk Split | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-haj-thun@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Thun\nAway: Hajduk Split\nSaudi ti
  me: 2026-10-22 22:00\nStatus: final\nScore:  | 0 - 1\nVenue: Stockhorn Are
@@ -5449,7 +5449,7 @@ BEGIN:VEVENT
 SUMMARY:Borac Banja Luka vs KuPS Kuopio | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-kups-bbl@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Borac Banja Luka\nAway: KuPS Kuopio\n
  Saudi time: 2026-10-22 22:00\nStatus: final\nScore:  | 2 - 0\nVenue: Grads
@@ -5466,7 +5466,7 @@ BEGIN:VEVENT
 SUMMARY:AS Monaco vs SC Freiburg | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-scf-mon@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: AS Monaco\nAway: SC Freiburg\nSaudi t
  ime: 2026-10-22 22:00\nStatus: final\nScore:  | 3 - 0\nVenue: Stade Louis 
@@ -5483,7 +5483,7 @@ BEGIN:VEVENT
 SUMMARY:FC Midtjylland vs Sint-Truidense | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-stvv-mid@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Midtjylland\nAway: Sint-Truidense\
  nSaudi time: 2026-10-22 22:00\nStatus: final\nScore:  | 0 - 1\nVenue: MCH 
@@ -5500,7 +5500,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps vs FC Twente | 1 - 4
 DTSTART;TZID=Asia/Riyadh:20261022T220000
 DTEND;TZID=Asia/Riyadh:20261023T000000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261022-twe-lri@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Lincoln Red Imps\nAway: FC Twente\nSa
  udi time: 2026-10-22 22:00\nStatus: final\nScore:  | 1 - 4\nVenue: Europa 
@@ -5517,7 +5517,7 @@ BEGIN:VEVENT
 SUMMARY:FC Midtjylland vs Ajax Amsterdam | 1 - 6
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-aja-mid@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Midtjylland\nAway: Ajax Amsterdam\
  nSaudi time: 2026-11-05 20:45\nStatus: final\nScore:  | 1 - 6\nVenue: MCH 
@@ -5534,7 +5534,7 @@ BEGIN:VEVENT
 SUMMARY:Mjällby AIF vs Borac Banja Luka | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-bbl-mja@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Mjällby AIF\nAway: Borac Banja Luka\
  nSaudi time: 2026-11-05 20:45\nStatus: final\nScore:  | 2 - 0\nVenue: Olym
@@ -5551,7 +5551,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS Kuopio vs KAA Gent | 0 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-gent-kups@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: KuPS Kuopio\nAway: KAA Gent\nSaudi ti
  me: 2026-11-05 20:45\nStatus: final\nScore:  | 0 - 0\nVenue: Tammelan Stad
@@ -5568,7 +5568,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps vs Hajduk Split | 1 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-haj-lri@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Lincoln Red Imps\nAway: Hajduk Split\
  nSaudi time: 2026-11-05 20:45\nStatus: final\nScore:  | 1 - 0\nVenue: Euro
@@ -5585,7 +5585,7 @@ BEGIN:VEVENT
 SUMMARY:FC Thun vs Heart of Midlothian | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-hom-thun@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Thun\nAway: Heart of Midlothian\nS
  audi time: 2026-11-05 20:45\nStatus: final\nScore:  | 3 - 1\nVenue: Stockh
@@ -5602,7 +5602,7 @@ BEGIN:VEVENT
 SUMMARY:Red Star Belgrade vs Inter D'Escaldes | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-ide-rsb@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Red Star Belgrade\nAway: Inter D'Esca
  ldes\nSaudi time: 2026-11-05 20:45\nStatus: final\nScore:  | 2 - 1\nVenue:
@@ -5619,7 +5619,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta vs Kairat Almaty | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-kai-ata@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Atalanta\nAway: Kairat Almaty\nSaudi 
  time: 2026-11-05 20:45\nStatus: final\nScore:  | 1 - 1\nVenue: New Balance
@@ -5636,7 +5636,7 @@ BEGIN:VEVENT
 SUMMARY:AGF vs Braga | 0 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-scb-agf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: AGF\nAway: Braga\nSaudi time: 2026-11
  -05 20:45\nStatus: final\nScore:  | 0 - 0\nVenue: Cepheus Park Randers\nBr
@@ -5653,7 +5653,7 @@ BEGIN:VEVENT
 SUMMARY:Trabzonspor vs SC Freiburg | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T204500
 DTEND;TZID=Asia/Riyadh:20261105T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-scf-trab@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Trabzonspor\nAway: SC Freiburg\nSaudi
   time: 2026-11-05 20:45\nStatus: final\nScore:  | 0 - 1\nVenue: Papara Par
@@ -5670,7 +5670,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe vs Brighton & Hove Albion | 0 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-bha-get@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Getafe\nAway: Brighton & Hove Albion\
  nSaudi time: 2026-11-05 23:00\nStatus: final\nScore:  | 0 - 1\nVenue: Esta
@@ -5687,7 +5687,7 @@ BEGIN:VEVENT
 SUMMARY:Panathinaikos vs CSKA Sofia | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-cska-pao@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Panathinaikos\nAway: CSKA Sofia\nSaud
  i time: 2026-11-05 23:00\nStatus: final\nScore:  | 2 - 1\nVenue: Athens Ol
@@ -5704,7 +5704,7 @@ BEGIN:VEVENT
 SUMMARY:CSU Craiova vs Egnatia | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-egn-ucra@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: CSU Craiova\nAway: Egnatia\nSaudi tim
  e: 2026-11-05 23:00\nStatus: final\nScore:  | 2 - 0\nVenue: Stadionul Ion 
@@ -5721,7 +5721,7 @@ BEGIN:VEVENT
 SUMMARY:AS Monaco vs FC Nordsjælland | 2 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-fcn-mon@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: AS Monaco\nAway: FC Nordsjælland\nSa
  udi time: 2026-11-05 23:00\nStatus: final\nScore:  | 2 - 0\nVenue: Stade L
@@ -5738,7 +5738,7 @@ BEGIN:VEVENT
 SUMMARY:F.C. København vs Iberia 1999 | 2 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-ibe-kbh@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: F.C. København\nAway: Iberia 1999\nS
  audi time: 2026-11-05 23:00\nStatus: final\nScore:  | 2 - 1\nVenue: Parken
@@ -5755,7 +5755,7 @@ BEGIN:VEVENT
 SUMMARY:Riga FC vs Jablonec | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-jabl-rig@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Riga FC\nAway: Jablonec\nSaudi time: 
  2026-11-05 23:00\nStatus: final\nScore:  | 1 - 1\nVenue: Skonto Stadions\n
@@ -5772,7 +5772,7 @@ BEGIN:VEVENT
 SUMMARY:FC Twente vs Pafos | 3 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-paf-twe@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Twente\nAway: Pafos\nSaudi time: 2
  026-11-05 23:00\nStatus: final\nScore:  | 3 - 1\nVenue: De Grolsch Veste\n
@@ -5789,7 +5789,7 @@ BEGIN:VEVENT
 SUMMARY:Sint-Truidense vs SK Brann | 1 - 1
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-skbr-stvv@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Sint-Truidense\nAway: SK Brann\nSaudi
   time: 2026-11-05 23:00\nStatus: final\nScore:  | 1 - 1\nVenue: Daio Wasab
@@ -5806,7 +5806,7 @@ BEGIN:VEVENT
 SUMMARY:FC Lugano vs Kauno Zalgiris | 3 - 0
 DTSTART;TZID=Asia/Riyadh:20261105T230000
 DTEND;TZID=Asia/Riyadh:20261106T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261105-zal-lug@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Lugano\nAway: Kauno Zalgiris\nSaud
  i time: 2026-11-05 23:00\nStatus: final\nScore:  | 3 - 0\nVenue: AIL Arena
@@ -5823,7 +5823,7 @@ BEGIN:VEVENT
 SUMMARY:Kairat Almaty vs Mjällby AIF
 DTSTART;TZID=Asia/Riyadh:20261126T183000
 DTEND;TZID=Asia/Riyadh:20261126T203000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-mja-kai@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Kairat Almaty\nAway: Mjällby AIF\nSa
  udi time: 2026-11-26 18:30\nStatus: scheduled\nScore: Not available\nVenue
@@ -5840,7 +5840,7 @@ BEGIN:VEVENT
 SUMMARY:SK Brann vs AGF
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-agf-skbr@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: SK Brann\nAway: AGF\nSaudi time: 2026
  -11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Brann Stadiu
@@ -5857,7 +5857,7 @@ BEGIN:VEVENT
 SUMMARY:Iberia 1999 vs Getafe
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-get-ibe@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Iberia 1999\nAway: Getafe\nSaudi time
  : 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Mikhei
@@ -5874,7 +5874,7 @@ BEGIN:VEVENT
 SUMMARY:Egnatia vs Lincoln Red Imps
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-lri-egn@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Egnatia\nAway: Lincoln Red Imps\nSaud
  i time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -5891,7 +5891,7 @@ BEGIN:VEVENT
 SUMMARY:Jablonec vs FC Lugano
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-lug-jabl@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Jablonec\nAway: FC Lugano\nSaudi time
  : 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Stadio
@@ -5908,7 +5908,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos vs FC Midtjylland
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-mid-paf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Pafos\nAway: FC Midtjylland\nSaudi ti
  me: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Alph
@@ -5925,7 +5925,7 @@ BEGIN:VEVENT
 SUMMARY:Heart of Midlothian vs AS Monaco
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-mon-hom@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Heart of Midlothian\nAway: AS Monaco\
  nSaudi time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVe
@@ -5942,7 +5942,7 @@ BEGIN:VEVENT
 SUMMARY:Kauno Zalgiris vs Riga FC
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-rig-zal@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Kauno Zalgiris\nAway: Riga FC\nSaudi 
  time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: S.
@@ -5959,7 +5959,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam vs FC Thun
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-thun-aja@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Ajax Amsterdam\nAway: FC Thun\nSaudi 
  time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not available\nVenue: Jo
@@ -5976,7 +5976,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton & Hove Albion vs CSU Craiova
 DTSTART;TZID=Asia/Riyadh:20261126T204500
 DTEND;TZID=Asia/Riyadh:20261126T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-ucra-bha@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Brighton & Hove Albion\nAway: CSU Cra
  iova\nSaudi time: 2026-11-26 20:45\nStatus: scheduled\nScore: Not availabl
@@ -5993,7 +5993,7 @@ BEGIN:VEVENT
 SUMMARY:Borac Banja Luka vs Atalanta
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-ata-bbl@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Borac Banja Luka\nAway: Atalanta\nSau
  di time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue:
@@ -6010,7 +6010,7 @@ BEGIN:VEVENT
 SUMMARY:Inter D'Escaldes vs F.C. København
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-kbh-ide@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Inter D'Escaldes\nAway: F.C. Københa
  vn\nSaudi time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\
@@ -6027,7 +6027,7 @@ BEGIN:VEVENT
 SUMMARY:Braga vs KuPS Kuopio
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-kups-scb@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Braga\nAway: KuPS Kuopio\nSaudi time:
   2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Estádi
@@ -6044,7 +6044,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nordsjælland vs Panathinaikos
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-pao-fcn@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Nordsjælland\nAway: Panathinaikos
  \nSaudi time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nV
@@ -6061,7 +6061,7 @@ BEGIN:VEVENT
 SUMMARY:KAA Gent vs Red Star Belgrade
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-rsb-gent@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: KAA Gent\nAway: Red Star Belgrade\nSa
  udi time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -6078,7 +6078,7 @@ BEGIN:VEVENT
 SUMMARY:Hajduk Split vs Sint-Truidense
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-stvv-haj@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Hajduk Split\nAway: Sint-Truidense\nS
  audi time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -6095,7 +6095,7 @@ BEGIN:VEVENT
 SUMMARY:CSKA Sofia vs Trabzonspor
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-trab-cska@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: CSKA Sofia\nAway: Trabzonspor\nSaudi 
  time: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Ba
@@ -6112,7 +6112,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg vs FC Twente
 DTSTART;TZID=Asia/Riyadh:20261126T230000
 DTEND;TZID=Asia/Riyadh:20261127T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261126-twe-scf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: SC Freiburg\nAway: FC Twente\nSaudi t
  ime: 2026-11-26 23:00\nStatus: scheduled\nScore: Not available\nVenue: Eur
@@ -6129,7 +6129,7 @@ BEGIN:VEVENT
 SUMMARY:Kairat Almaty vs CSU Craiova
 DTSTART;TZID=Asia/Riyadh:20261210T183000
 DTEND;TZID=Asia/Riyadh:20261210T203000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-ucra-kai@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Kairat Almaty\nAway: CSU Craiova\nSau
  di time: 2026-12-10 18:30\nStatus: scheduled\nScore: Not available\nVenue:
@@ -6146,7 +6146,7 @@ BEGIN:VEVENT
 SUMMARY:Riga FC vs Atalanta
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-ata-rig@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Riga FC\nAway: Atalanta\nSaudi time: 
  2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: Skonto S
@@ -6163,7 +6163,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS Kuopio vs CSKA Sofia
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-cska-kups@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: KuPS Kuopio\nAway: CSKA Sofia\nSaudi 
  time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: Ta
@@ -6180,7 +6180,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe vs Inter D'Escaldes
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-ide-get@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Getafe\nAway: Inter D'Escaldes\nSaudi
   time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: E
@@ -6197,7 +6197,7 @@ BEGIN:VEVENT
 SUMMARY:Trabzonspor vs Jablonec
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-jabl-trab@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Trabzonspor\nAway: Jablonec\nSaudi ti
  me: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: Papa
@@ -6214,7 +6214,7 @@ BEGIN:VEVENT
 SUMMARY:F.C. København vs FC Lugano
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-lug-kbh@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: F.C. København\nAway: FC Lugano\nSau
  di time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue:
@@ -6231,7 +6231,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps vs FC Midtjylland
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-mid-lri@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Lincoln Red Imps\nAway: FC Midtjyllan
  d\nSaudi time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\n
@@ -6248,7 +6248,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg vs Panathinaikos
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-pao-scf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: SC Freiburg\nAway: Panathinaikos\nSau
  di time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue:
@@ -6265,7 +6265,7 @@ BEGIN:VEVENT
 SUMMARY:Iberia 1999 vs Red Star Belgrade
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-rsb-ibe@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Iberia 1999\nAway: Red Star Belgrade\
  nSaudi time: 2026-12-10 20:45\nStatus: scheduled\nScore: Not available\nVe
@@ -6282,7 +6282,7 @@ BEGIN:VEVENT
 SUMMARY:SK Brann vs Braga
 DTSTART;TZID=Asia/Riyadh:20261210T204500
 DTEND;TZID=Asia/Riyadh:20261210T224500
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-scb-skbr@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: SK Brann\nAway: Braga\nSaudi time: 20
  26-12-10 20:45\nStatus: scheduled\nScore: Not available\nVenue: Brann Stad
@@ -6299,7 +6299,7 @@ BEGIN:VEVENT
 SUMMARY:Sint-Truidense vs Ajax Amsterdam
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-aja-stvv@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Sint-Truidense\nAway: Ajax Amsterdam\
  nSaudi time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVe
@@ -6316,7 +6316,7 @@ BEGIN:VEVENT
 SUMMARY:Heart of Midlothian vs Borac Banja Luka
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-bbl-hom@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Heart of Midlothian\nAway: Borac Banj
  a Luka\nSaudi time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not availa
@@ -6333,7 +6333,7 @@ BEGIN:VEVENT
 SUMMARY:Hajduk Split vs FC Nordsjælland
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-fcn-haj@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Hajduk Split\nAway: FC Nordsjælland\
  nSaudi time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVe
@@ -6350,7 +6350,7 @@ BEGIN:VEVENT
 SUMMARY:FC Thun vs KAA Gent
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-gent-thun@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Thun\nAway: KAA Gent\nSaudi time: 
  2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stockhor
@@ -6367,7 +6367,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton & Hove Albion vs AS Monaco
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-mon-bha@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Brighton & Hove Albion\nAway: AS Mona
  co\nSaudi time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\
@@ -6384,7 +6384,7 @@ BEGIN:VEVENT
 SUMMARY:Mjällby AIF vs Pafos
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-paf-mja@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Mjällby AIF\nAway: Pafos\nSaudi time
  : 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Olympi
@@ -6401,7 +6401,7 @@ BEGIN:VEVENT
 SUMMARY:AGF vs FC Twente
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-twe-agf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: AGF\nAway: FC Twente\nSaudi time: 202
  6-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Cepheus Par
@@ -6418,7 +6418,7 @@ BEGIN:VEVENT
 SUMMARY:Egnatia vs Kauno Zalgiris
 DTSTART;TZID=Asia/Riyadh:20261210T230000
 DTEND;TZID=Asia/Riyadh:20261211T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261210-zal-egn@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Egnatia\nAway: Kauno Zalgiris\nSaudi 
  time: 2026-12-10 23:00\nStatus: scheduled\nScore: Not available\nVenue: Ai
@@ -6435,7 +6435,7 @@ BEGIN:VEVENT
 SUMMARY:Inter D'Escaldes vs AGF
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-agf-ide@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Inter D'Escaldes\nAway: AGF\nSaudi ti
  me: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: Esta
@@ -6452,7 +6452,7 @@ BEGIN:VEVENT
 SUMMARY:Panathinaikos vs Brighton & Hove Albion
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-bha-pao@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Panathinaikos\nAway: Brighton & Hove 
  Albion\nSaudi time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not availa
@@ -6469,7 +6469,7 @@ BEGIN:VEVENT
 SUMMARY:Braga vs Egnatia
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-egn-scb@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Braga\nAway: Egnatia\nSaudi time: 202
  6-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: Estádio Mu
@@ -6486,7 +6486,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam vs Getafe
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-get-aja@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Ajax Amsterdam\nAway: Getafe\nSaudi t
  ime: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: Joh
@@ -6503,7 +6503,7 @@ BEGIN:VEVENT
 SUMMARY:FC Midtjylland vs Hajduk Split
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-haj-mid@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Midtjylland\nAway: Hajduk Split\nS
  audi time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -6520,7 +6520,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos vs Heart of Midlothian
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-hom-paf@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Pafos\nAway: Heart of Midlothian\nSau
  di time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue:
@@ -6537,7 +6537,7 @@ BEGIN:VEVENT
 SUMMARY:Jablonec vs Iberia 1999
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-ibe-jabl@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Jablonec\nAway: Iberia 1999\nSaudi ti
  me: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: Stad
@@ -6554,7 +6554,7 @@ BEGIN:VEVENT
 SUMMARY:FC Twente vs Kairat Almaty
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-kai-twe@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Twente\nAway: Kairat Almaty\nSaudi
   time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: D
@@ -6571,7 +6571,7 @@ BEGIN:VEVENT
 SUMMARY:CSU Craiova vs F.C. København
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-kbh-ucra@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: CSU Craiova\nAway: F.C. København\nS
  audi time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenu
@@ -6588,7 +6588,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nordsjælland vs KuPS Kuopio
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-kups-fcn@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Nordsjælland\nAway: KuPS Kuopio\n
  Saudi time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVen
@@ -6605,7 +6605,7 @@ BEGIN:VEVENT
 SUMMARY:AS Monaco vs Lincoln Red Imps
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-lri-mon@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: AS Monaco\nAway: Lincoln Red Imps\nSa
  udi time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -6622,7 +6622,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta vs Mjällby AIF
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-mja-ata@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Atalanta\nAway: Mjällby AIF\nSaudi t
  ime: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: New
@@ -6639,7 +6639,7 @@ BEGIN:VEVENT
 SUMMARY:Borac Banja Luka vs Riga FC
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-rig-bbl@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Borac Banja Luka\nAway: Riga FC\nSaud
  i time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -6656,7 +6656,7 @@ BEGIN:VEVENT
 SUMMARY:Kauno Zalgiris vs SC Freiburg
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-scf-zal@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Kauno Zalgiris\nAway: SC Freiburg\nSa
  udi time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue
@@ -6673,7 +6673,7 @@ BEGIN:VEVENT
 SUMMARY:KAA Gent vs SK Brann
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-skbr-gent@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: KAA Gent\nAway: SK Brann\nSaudi time:
   2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: Ghelamc
@@ -6690,7 +6690,7 @@ BEGIN:VEVENT
 SUMMARY:FC Lugano vs Sint-Truidense
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-stvv-lug@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: FC Lugano\nAway: Sint-Truidense\nSaud
  i time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: 
@@ -6707,7 +6707,7 @@ BEGIN:VEVENT
 SUMMARY:CSKA Sofia vs FC Thun
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-thun-cska@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: CSKA Sofia\nAway: FC Thun\nSaudi time
  : 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVenue: Balgar
@@ -6724,7 +6724,7 @@ BEGIN:VEVENT
 SUMMARY:Red Star Belgrade vs Trabzonspor
 DTSTART;TZID=Asia/Riyadh:20261217T230000
 DTEND;TZID=Asia/Riyadh:20261218T010000
-DTSTAMP:20261109T074819Z
+DTSTAMP:20261109T133543Z
 UID:uecl-20261217-trab-rsb@football-fixtures-saudi
 DESCRIPTION:Competition: uecl\nHome: Red Star Belgrade\nAway: Trabzonspor\
  nSaudi time: 2026-12-17 23:00\nStatus: scheduled\nScore: Not available\nVe
